@@ -1,7 +1,6 @@
 Attachment Strategy Learning(Timing and Location)
 
-During the orthodontic process, some attachments would be added to teeth, to add a force point to the tooth surface. The strategy of adding attachment contains 3 part of decisions. 
-When to set an attachment, which kind of attachment and which tooth it should be set on. That is, orthodontic steps count s(5-15), attachment type c(0-10),  And attachment position p(0-31). 
+During the orthodontic process, some attachments would be added to teeth, to add a force point to the tooth surface. The strategy of adding attachment contains 3 part of decisions: When to set an attachment, which kind of attachment and which tooth it should be set on. That is, orthodontic steps count s(5-15), attachment type c(0-10),  And attachment position p(0-31). 
 triplet <s,c, p> can be view as 3D coordination in latent space. 
 
 Data: initial 3D model of 32 crowns, an array of triplets<s, c, p> 
