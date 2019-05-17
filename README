@@ -9,3 +9,5 @@ Data: initial 3D model of 32 crowns, an array of triplets<s, c, p>
 
 Route: Construct a spatial feature learning network that learns from 3D models and the output of deep network is point cloud. 
 
+use python3 train.py to run the model.
+
