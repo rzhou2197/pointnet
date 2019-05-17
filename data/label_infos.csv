@@ -1,0 +1,1431 @@
+Name,Tooth_Id,Attachment_Id,Type,Orientation,Surface,StartStage
+BoChen,4,8,Optimized Rotation,Vertical,Buccal,3
+BoChen,5,9,Optimized Rotation,Vertical,Buccal,3
+BoChen,6,10,Optimized Rotation,Vertical,Buccal,3
+BoChen,11,11,Optimized Rotation,Vertical,Buccal,3
+BoChen,12,12,Optimized Rotation,Vertical,Buccal,3
+BoChen,12,13,Optimized Rotation,Horizontal,Buccal,3
+BoChen,13,14,Optimized Rotation,Horizontal,Buccal,3
+BoChen,20,1,Optimized Extrusion,Vertical,Buccal,3
+BoChen,21,2,Optimized Rotation,Horizontal,Buccal,3
+BoChen,22,3,Optimized Rotation,Horizontal,Buccal,3
+BoChen,22,4,Optimized Rotation,Horizontal,Buccal,3
+BoChen,27,5,Rectangular,Vertical,Buccal,3
+BoChen,28,6,Optimized Rotation,Vertical,Buccal,3
+BoChen,29,7,Optimized Rotation,Horizontal,Buccal,3
+ChenchenWang,2,18,Ellipsoidal,Horizontal,Lingual,0
+ChenchenWang,3,10,Rectangular,Vertical,Buccal,3
+ChenchenWang,4,11,Rectangular,Vertical,Buccal,3
+ChenchenWang,6,12,Rectangular,Vertical,Buccal,3
+ChenchenWang,7,13,Optimized Rotation,Horizontal,Buccal,3
+ChenchenWang,10,14,Optimized Rotation,Horizontal,Buccal,3
+ChenchenWang,11,15,Rectangular,Vertical,Buccal,3
+ChenchenWang,13,16,Rectangular,Vertical,Buccal,3
+ChenchenWang,14,17,Rectangular,Vertical,Buccal,3
+ChenchenWang,15,19,Ellipsoidal,Horizontal,Lingual,0
+ChenchenWang,18,1,Ellipsoidal,Horizontal,Lingual,3
+ChenchenWang,19,2,Rectangular,Vertical,Buccal,3
+ChenchenWang,20,3,Rectangular,Horizontal,Buccal,3
+ChenchenWang,22,4,Rectangular,Vertical,Buccal,3
+ChenchenWang,27,5,Rectangular,Vertical,Buccal,3
+ChenchenWang,29,6,Rectangular,Horizontal,Buccal,3
+ChenchenWang,30,7,Rectangular,Vertical,Buccal,3
+ChenchenWang,31,8,Rectangular,Horizontal,Buccal,3
+ChenchenWang,31,9,Ellipsoidal,Horizontal,Lingual,3
+ChenfeiWang,4,5,Optimized Rotation,Horizontal,Buccal,3
+ChenfeiWang,5,6,Optimized Rotation,Horizontal,Buccal,3
+ChenfeiWang,6,7,Optimized Rotation,Horizontal,Buccal,3
+ChenfeiWang,6,8,Optimized Rotation,Horizontal,Buccal,3
+ChenfeiWang,11,9,Optimized Rotation,Horizontal,Buccal,3
+ChenfeiWang,11,10,Optimized Rotation,Horizontal,Buccal,3
+ChenfeiWang,12,11,Optimized Rotation,Horizontal,Buccal,3
+ChenfeiWang,13,12,Optimized Rotation,Horizontal,Buccal,3
+ChenfeiWang,22,1,Optimized Rotation,Horizontal,Buccal,3
+ChenfeiWang,22,2,Optimized Rotation,Horizontal,Buccal,3
+ChenfeiWang,27,3,Optimized Rotation,Vertical,Buccal,3
+ChenfeiWang,28,4,Optimized Rotation,Vertical,Buccal,3
+ChengpeiWeng,2,16,Ellipsoidal,Horizontal,Buccal,0
+ChengpeiWeng,3,7,Ellipsoidal,Horizontal,Buccal,3
+ChengpeiWeng,4,8,Optimized Rotation,Horizontal,Buccal,3
+ChengpeiWeng,5,9,Optimized Rotation,Horizontal,Buccal,3
+ChengpeiWeng,6,10,Rectangular,Horizontal,Buccal,3
+ChengpeiWeng,11,11,Rectangular,Vertical,Buccal,3
+ChengpeiWeng,12,12,Optimized Rotation,Horizontal,Buccal,3
+ChengpeiWeng,13,13,Optimized Rotation,Horizontal,Buccal,3
+ChengpeiWeng,14,14,Ellipsoidal,Horizontal,Buccal,3
+ChengpeiWeng,15,15,Ellipsoidal,Horizontal,Buccal,0
+ChengpeiWeng,20,1,Optimized Rotation,Vertical,Buccal,3
+ChengpeiWeng,21,2,Optimized Rotation,Vertical,Buccal,3
+ChengpeiWeng,21,24,Rectangular,Vertical,Buccal,0
+ChengpeiWeng,22,23,Rectangular,Vertical,Buccal,0
+ChengpeiWeng,27,3,Optimized Rotation,Horizontal,Buccal,3
+ChengpeiWeng,27,4,Optimized Rotation,Horizontal,Buccal,3
+ChengpeiWeng,27,22,Rectangular,Vertical,Buccal,0
+ChengpeiWeng,28,5,Optimized Rotation,Vertical,Buccal,3
+ChengpeiWeng,28,20,Rectangular,Vertical,Buccal,0
+ChengpeiWeng,29,6,Optimized Extrusion,Vertical,Buccal,3
+ChenleiZhao,4,12,Optimized Rotation,Vertical,Buccal,3
+ChenleiZhao,5,13,Optimized Rotation,Vertical,Buccal,3
+ChenleiZhao,6,14,Optimized Rotation,Vertical,Buccal,3
+ChenleiZhao,7,15,Optimized Rotation,Vertical,Buccal,3
+ChenleiZhao,8,16,Optimized Rotation,Horizontal,Buccal,3
+ChenleiZhao,8,17,Optimized Rotation,Horizontal,Buccal,3
+ChenleiZhao,10,18,Optimized Rotation,Vertical,Buccal,3
+ChenleiZhao,11,19,Optimized Rotation,Horizontal,Buccal,3
+ChenleiZhao,11,20,Optimized Rotation,Horizontal,Buccal,3
+ChenleiZhao,20,1,Optimized Rotation,Horizontal,Buccal,3
+ChenleiZhao,21,2,Optimized Rotation,Vertical,Buccal,3
+ChenleiZhao,21,3,Optimized Rotation,Horizontal,Buccal,3
+ChenleiZhao,22,4,Optimized Rotation,Vertical,Buccal,3
+ChenleiZhao,23,5,Rectangular,Vertical,Buccal,3
+ChenleiZhao,25,6,Rectangular,Vertical,Buccal,3
+ChenleiZhao,27,7,Optimized Rotation,Horizontal,Buccal,3
+ChenleiZhao,27,8,Optimized Rotation,Horizontal,Buccal,3
+ChenleiZhao,28,9,Optimized Rotation,Vertical,Buccal,3
+ChenleiZhao,28,10,Optimized Rotation,Horizontal,Buccal,3
+ChenleiZhao,29,11,Optimized Rotation,Horizontal,Buccal,3
+ChunfangWang,4,8,Optimized Rotation,Vertical,Buccal,3
+ChunfangWang,20,1,Optimized Rotation,Vertical,Buccal,3
+ChunfangWang,20,2,Optimized Rotation,Horizontal,Buccal,3
+ChunfangWang,21,3,Optimized Rotation,Vertical,Buccal,3
+ChunfangWang,22,4,Rectangular,Vertical,Buccal,3
+ChunfangWang,24,5,Rectangular,Vertical,Buccal,3
+ChunfangWang,27,6,Optimized Rotation,Vertical,Buccal,3
+ChunfangWang,28,7,Rectangular,Horizontal,Buccal,3
+DaohaoNan,2,10,Optimized Rotation,Vertical,Buccal,3
+DaohaoNan,3,11,Optimized Rotation,Horizontal,Buccal,3
+DaohaoNan,4,12,Optimized Rotation,Horizontal,Buccal,3
+DaohaoNan,6,13,Optimized Rotation,Horizontal,Buccal,3
+DaohaoNan,6,14,Optimized Rotation,Horizontal,Buccal,3
+DaohaoNan,11,15,Optimized Rotation,Horizontal,Buccal,3
+DaohaoNan,11,16,Optimized Rotation,Horizontal,Buccal,3
+DaohaoNan,13,17,Rectangular,Vertical,Buccal,3
+DaohaoNan,14,18,Rectangular,Vertical,Buccal,3
+DaohaoNan,19,1,Optimized Rotation,Horizontal,Buccal,3
+DaohaoNan,20,2,Optimized Rotation,Horizontal,Buccal,3
+DaohaoNan,22,3,Optimized Rotation,Horizontal,Buccal,3
+DaohaoNan,22,4,Optimized Rotation,Horizontal,Buccal,3
+DaohaoNan,27,5,Optimized Rotation,Horizontal,Buccal,3
+DaohaoNan,27,6,Optimized Rotation,Horizontal,Buccal,3
+DaohaoNan,29,7,Optimized Rotation,Horizontal,Buccal,3
+DaohaoNan,30,8,Optimized Rotation,Horizontal,Buccal,3
+DaohaoNan,31,9,Optimized Rotation,Horizontal,Buccal,3
+FengCheng,2,19,Ellipsoidal,Horizontal,Buccal,0
+FengCheng,4,7,Optimized Rotation,Horizontal,Buccal,3
+FengCheng,5,8,Optimized Rotation,Vertical,Buccal,3
+FengCheng,5,9,Optimized Rotation,Horizontal,Buccal,3
+FengCheng,6,10,Optimized Rotation,Horizontal,Buccal,3
+FengCheng,6,11,Optimized Rotation,Horizontal,Buccal,3
+FengCheng,6,21,Rectangular,Vertical,Buccal,0
+FengCheng,7,12,Optimized Rotation,Horizontal,Buccal,3
+FengCheng,10,13,Optimized Rotation,Vertical,Buccal,3
+FengCheng,11,14,Optimized Rotation,Horizontal,Buccal,3
+FengCheng,11,15,Optimized Rotation,Horizontal,Buccal,3
+FengCheng,11,23,Rectangular,Vertical,Buccal,0
+FengCheng,12,16,Optimized Rotation,Vertical,Buccal,3
+FengCheng,12,17,Optimized Rotation,Horizontal,Buccal,3
+FengCheng,13,18,Rectangular,Vertical,Buccal,30
+FengCheng,15,20,Ellipsoidal,Horizontal,Buccal,0
+FengCheng,20,1,Optimized Rotation,Vertical,Buccal,3
+FengCheng,21,2,Optimized Rotation,Vertical,Buccal,3
+FengCheng,22,3,Optimized Rotation,Vertical,Buccal,3
+FengCheng,22,25,Rectangular,Vertical,Buccal,0
+FengCheng,27,4,Optimized Rotation,Vertical,Buccal,3
+FengCheng,27,24,Rectangular,Vertical,Buccal,0
+FengCheng,28,5,Optimized Rotation,Vertical,Buccal,3
+FengCheng,29,6,Optimized Extrusion,Vertical,Buccal,3
+Hang fangZhang,2,14,Rectangular,Horizontal,Buccal,0
+Hang fangZhang,4,5,Optimized Rotation,Vertical,Buccal,3
+Hang fangZhang,4,12,Ellipsoidal,Horizontal,Lingual,0
+Hang fangZhang,5,6,Optimized Extrusion,Vertical,Buccal,3
+Hang fangZhang,6,7,Optimized Rotation,Horizontal,Buccal,3
+Hang fangZhang,6,8,Optimized Rotation,Horizontal,Buccal,3
+Hang fangZhang,6,13,Rectangular,Vertical,Buccal,0
+Hang fangZhang,11,9,Optimized Rotation,Vertical,Buccal,3
+Hang fangZhang,11,16,Rectangular,Vertical,Buccal,0
+Hang fangZhang,12,10,Optimized Extrusion,Vertical,Buccal,3
+Hang fangZhang,13,11,Optimized Rotation,Horizontal,Buccal,3
+Hang fangZhang,14,15,Rectangular,Horizontal,Buccal,0
+Hang fangZhang,19,17,Rectangular,Vertical,Buccal,0
+Hang fangZhang,20,1,Optimized Rotation,Horizontal,Buccal,3
+Hang fangZhang,20,20,Rectangular,Horizontal,Buccal,0
+Hang fangZhang,21,2,Optimized Extrusion,Vertical,Buccal,3
+Hang fangZhang,21,19,Rectangular,Vertical,Buccal,0
+Hang fangZhang,22,18,Rectangular,Vertical,Buccal,0
+Hang fangZhang,27,21,Rectangular,Vertical,Buccal,0
+Hang fangZhang,28,3,Optimized Rotation,Vertical,Buccal,3
+Hang fangZhang,28,22,Rectangular,Vertical,Buccal,0
+Hang fangZhang,29,4,Optimized Rotation,Vertical,Buccal,3
+HaoyueWu,3,29,Rectangular,Vertical,Buccal,0
+HaoyueWu,4,10,Optimized Rotation,Horizontal,Buccal,3
+HaoyueWu,4,28,Rectangular,Vertical,Buccal,0
+HaoyueWu,6,11,Optimized Rotation,Horizontal,Buccal,3
+HaoyueWu,6,12,Optimized Rotation,Horizontal,Buccal,3
+HaoyueWu,6,27,Rectangular,Vertical,Buccal,0
+HaoyueWu,7,13,Optimized Extrusion,Vertical,Buccal,3
+HaoyueWu,8,14,Optimized Extrusion,Vertical,Buccal,3
+HaoyueWu,9,15,Optimized Extrusion,Vertical,Buccal,3
+HaoyueWu,10,16,Optimized Extrusion,Vertical,Buccal,3
+HaoyueWu,11,17,Optimized Rotation,Horizontal,Buccal,3
+HaoyueWu,11,18,Optimized Rotation,Horizontal,Buccal,3
+HaoyueWu,11,32,Rectangular,Vertical,Buccal,0
+HaoyueWu,13,19,Optimized Rotation,Horizontal,Buccal,3
+HaoyueWu,13,31,Rectangular,Vertical,Buccal,0
+HaoyueWu,14,30,Rectangular,Vertical,Buccal,0
+HaoyueWu,18,1,Optimized Rotation,Horizontal,Buccal,3
+HaoyueWu,18,21,Ellipsoidal,Horizontal,Lingual,0
+HaoyueWu,19,2,Optimized Rotation,Horizontal,Buccal,3
+HaoyueWu,19,26,Rectangular,Horizontal,Buccal,0
+HaoyueWu,20,3,Optimized Rotation,Horizontal,Buccal,3
+HaoyueWu,20,25,Rectangular,Vertical,Buccal,0
+HaoyueWu,22,4,Optimized Rotation,Horizontal,Buccal,3
+HaoyueWu,22,5,Optimized Rotation,Horizontal,Buccal,3
+HaoyueWu,22,24,Rectangular,Vertical,Buccal,0
+HaoyueWu,27,6,Optimized Rotation,Horizontal,Buccal,3
+HaoyueWu,27,7,Optimized Rotation,Horizontal,Buccal,3
+HaoyueWu,27,23,Rectangular,Vertical,Buccal,0
+HaoyueWu,29,8,Optimized Rotation,Horizontal,Buccal,3
+HaoyueWu,29,22,Rectangular,Vertical,Buccal,0
+HaoyueWu,30,9,Rectangular,Horizontal,Buccal,3
+HaoyueWu,30,9,Rectangular,Horizontal,Buccal,3
+HaoyueWu,31,20,Ellipsoidal,Horizontal,Lingual,0
+HuiZhang,4,9,Optimized Rotation,Horizontal,Buccal,3
+HuiZhang,6,10,Optimized Rotation,Vertical,Buccal,3
+HuiZhang,7,11,Optimized Extrusion,Vertical,Buccal,3
+HuiZhang,9,12,Optimized Rotation,Horizontal,Buccal,3
+HuiZhang,9,13,Optimized Rotation,Horizontal,Buccal,3
+HuiZhang,11,14,Optimized Rotation,Vertical,Buccal,3
+HuiZhang,13,15,Optimized Rotation,Vertical,Buccal,3
+HuiZhang,20,1,Optimized Rotation,Vertical,Buccal,3
+HuiZhang,21,2,Optimized Rotation,Vertical,Buccal,3
+HuiZhang,22,3,Optimized Rotation,Horizontal,Buccal,3
+HuiZhang,22,4,Optimized Rotation,Horizontal,Buccal,3
+HuiZhang,27,5,Optimized Rotation,Horizontal,Buccal,3
+HuiZhang,27,6,Optimized Rotation,Horizontal,Buccal,3
+HuiZhang,28,7,Optimized Rotation,Vertical,Buccal,3
+HuiZhang,29,8,Optimized Rotation,Vertical,Buccal,3
+JiachengWang,4,11,Optimized Rotation,Horizontal,Buccal,0
+JiachengWang,5,12,Optimized Rotation,Horizontal,Buccal,0
+JiachengWang,6,13,Rectangular,Vertical,Buccal,0
+JiachengWang,10,14,Optimized Rotation,Horizontal,Buccal,0
+JiachengWang,11,15,Rectangular,Vertical,Buccal,0
+JiachengWang,12,16,Optimized Rotation,Horizontal,Buccal,0
+JiachengWang,13,17,Optimized Rotation,Horizontal,Buccal,0
+JiachengWang,18,22,Rectangular,Vertical,Buccal,0
+JiachengWang,19,1,Ellipsoidal,Horizontal,Lingual,0
+JiachengWang,20,2,Ellipsoidal,Horizontal,Lingual,0
+JiachengWang,20,3,Rectangular,Vertical,Buccal,0
+JiachengWang,21,4,Optimized Rotation,Horizontal,Buccal,0
+JiachengWang,22,5,Optimized Rotation,Vertical,Buccal,0
+JiachengWang,27,6,Optimized Rotation,Vertical,Buccal,0
+JiachengWang,28,7,Optimized Rotation,Horizontal,Buccal,0
+JiachengWang,29,8,Ellipsoidal,Horizontal,Lingual,0
+JiachengWang,29,9,Rectangular,Vertical,Buccal,0
+JiachengWang,30,10,Ellipsoidal,Horizontal,Lingual,0
+JiachengWang,31,18,Rectangular,Vertical,Lingual,0
+JiachengWang,31,21,Rectangular,Vertical,Buccal,0
+JianhuaZhu,4,9,Optimized Extrusion,Vertical,Buccal,3
+JianhuaZhu,5,10,Optimized Rotation,Vertical,Buccal,3
+JianhuaZhu,6,11,Optimized Rotation,Vertical,Buccal,3
+JianhuaZhu,11,12,Optimized Rotation,Horizontal,Buccal,3
+JianhuaZhu,11,13,Optimized Rotation,Horizontal,Buccal,3
+JianhuaZhu,12,14,Optimized Rotation,Horizontal,Buccal,3
+JianhuaZhu,12,15,Optimized Rotation,Horizontal,Buccal,3
+JianhuaZhu,13,16,Optimized Rotation,Vertical,Buccal,3
+JianhuaZhu,19,1,Rectangular,Vertical,Buccal,3
+JianhuaZhu,20,2,Optimized Rotation,Vertical,Buccal,3
+JianhuaZhu,21,3,Optimized Rotation,Vertical,Buccal,3
+JianhuaZhu,22,4,Optimized Rotation,Vertical,Buccal,3
+JianhuaZhu,27,5,Optimized Rotation,Horizontal,Buccal,3
+JianhuaZhu,27,6,Optimized Rotation,Horizontal,Buccal,3
+JianhuaZhu,28,7,Optimized Extrusion,Vertical,Buccal,3
+JianhuaZhu,30,8,Rectangular,Vertical,Buccal,3
+JiayingLi,2,10,Ellipsoidal,Horizontal,Buccal,3
+JiayingLi,3,11,Ellipsoidal,Horizontal,Lingual,3
+JiayingLi,4,12,Ellipsoidal,Horizontal,Lingual,3
+JiayingLi,5,13,Optimized Rotation,Horizontal,Buccal,3
+JiayingLi,6,14,Rectangular,Vertical,Buccal,3
+JiayingLi,11,15,Rectangular,Horizontal,Buccal,3
+JiayingLi,12,16,Optimized Rotation,Horizontal,Buccal,3
+JiayingLi,13,17,Ellipsoidal,Horizontal,Lingual,3
+JiayingLi,14,18,Ellipsoidal,Horizontal,Lingual,3
+JiayingLi,15,19,Ellipsoidal,Horizontal,Buccal,3
+JiayingLi,18,1,Ellipsoidal,Horizontal,Buccal,3
+JiayingLi,20,2,Optimized Rotation,Vertical,Buccal,3
+JiayingLi,21,3,Optimized Rotation,Horizontal,Buccal,3
+JiayingLi,22,4,Optimized Rotation,Horizontal,Buccal,3
+JiayingLi,22,5,Optimized Rotation,Horizontal,Buccal,3
+JiayingLi,27,6,Rectangular,Vertical,Buccal,3
+JiayingLi,28,7,Optimized Rotation,Horizontal,Buccal,3
+JiayingLi,29,8,Optimized Rotation,Vertical,Buccal,3
+JiayingLi,31,9,Ellipsoidal,Horizontal,Buccal,3
+JiayingYao,2,10,Optimized Rotation,Horizontal,Buccal,3
+JiayingYao,3,11,Optimized Rotation,Horizontal,Buccal,3
+JiayingYao,3,22,Ellipsoidal,Horizontal,Lingual,0
+JiayingYao,4,12,Optimized Rotation,Horizontal,Buccal,3
+JiayingYao,6,13,Optimized Rotation,Horizontal,Buccal,3
+JiayingYao,6,14,Optimized Rotation,Horizontal,Buccal,3
+JiayingYao,7,15,Optimized Rotation,Horizontal,Buccal,3
+JiayingYao,11,16,Optimized Rotation,Horizontal,Buccal,3
+JiayingYao,11,17,Optimized Rotation,Horizontal,Buccal,3
+JiayingYao,13,18,Optimized Rotation,Horizontal,Buccal,3
+JiayingYao,14,19,Optimized Rotation,Horizontal,Buccal,3
+JiayingYao,14,23,Ellipsoidal,Horizontal,Lingual,0
+JiayingYao,15,20,Optimized Rotation,Horizontal,Buccal,3
+JiayingYao,18,1,Optimized Rotation,Horizontal,Buccal,3
+JiayingYao,19,2,Optimized Rotation,Vertical,Buccal,3
+JiayingYao,19,25,Ellipsoidal,Horizontal,Lingual,0
+JiayingYao,20,3,Optimized Rotation,Horizontal,Buccal,3
+JiayingYao,22,4,Optimized Rotation,Horizontal,Buccal,3
+JiayingYao,22,5,Optimized Rotation,Horizontal,Buccal,3
+JiayingYao,27,6,Optimized Rotation,Horizontal,Buccal,3
+JiayingYao,27,7,Optimized Rotation,Horizontal,Buccal,3
+JiayingYao,29,8,Optimized Rotation,Horizontal,Buccal,3
+JiayingYao,30,9,Optimized Rotation,Vertical,Buccal,3
+JiayingYao,30,24,Ellipsoidal,Horizontal,Lingual,0
+JingliHao,2,9,Optimized Rotation,Horizontal,Buccal,3
+JingliHao,3,10,Optimized Rotation,Horizontal,Buccal,3
+JingliHao,4,11,Optimized Rotation,Horizontal,Buccal,3
+JingliHao,6,12,Optimized Rotation,Horizontal,Buccal,3
+JingliHao,6,13,Optimized Rotation,Horizontal,Buccal,3
+JingliHao,7,14,Optimized Rotation,Horizontal,Buccal,3
+JingliHao,11,15,Optimized Rotation,Horizontal,Buccal,3
+JingliHao,11,16,Optimized Rotation,Horizontal,Buccal,3
+JingliHao,13,17,Rectangular,Vertical,Buccal,3
+JingliHao,14,18,Rectangular,Vertical,Buccal,3
+JingliHao,19,1,Optimized Rotation,Horizontal,Buccal,3
+JingliHao,20,2,Optimized Rotation,Horizontal,Buccal,3
+JingliHao,22,3,Optimized Rotation,Horizontal,Buccal,3
+JingliHao,22,4,Optimized Rotation,Horizontal,Buccal,3
+JingliHao,27,5,Optimized Rotation,Horizontal,Buccal,3
+JingliHao,27,6,Optimized Rotation,Horizontal,Buccal,3
+JingliHao,29,7,Optimized Rotation,Horizontal,Buccal,3
+JingliHao,30,8,Optimized Rotation,Vertical,Buccal,3
+JingZhou,4,7,Optimized Rotation,Horizontal,Buccal,3
+JingZhou,5,8,Optimized Rotation,Horizontal,Buccal,3
+JingZhou,6,9,Rectangular,Vertical,Buccal,3
+JingZhou,11,10,Rectangular,Vertical,Buccal,3
+JingZhou,12,11,Optimized Rotation,Vertical,Buccal,3
+JingZhou,13,12,Optimized Rotation,Vertical,Buccal,3
+JingZhou,20,1,Rectangular,Horizontal,Buccal,3
+JingZhou,21,2,Rectangular,Vertical,Buccal,3
+JingZhou,22,3,Rectangular,Vertical,Buccal,1
+JingZhou,27,4,Rectangular,Vertical,Buccal,1
+JingZhou,28,5,Rectangular,Horizontal,Buccal,3
+JingZhou,29,6,Rectangular,Horizontal,Buccal,3
+JinhaoZhang,3,20,Rectangular,Horizontal,Buccal,0
+JinhaoZhang,4,8,Optimized Rotation,Vertical,Buccal,3
+JinhaoZhang,4,19,Ellipsoidal,Horizontal,Lingual,0
+JinhaoZhang,6,9,Optimized Rotation,Vertical,Buccal,3
+JinhaoZhang,6,18,Rectangular,Vertical,Buccal,0
+JinhaoZhang,7,10,Optimized Extrusion,Vertical,Buccal,3
+JinhaoZhang,8,11,Optimized Extrusion,Vertical,Buccal,3
+JinhaoZhang,9,12,Optimized Extrusion,Vertical,Buccal,3
+JinhaoZhang,10,13,Optimized Extrusion,Vertical,Buccal,3
+JinhaoZhang,11,14,Optimized Extrusion,Vertical,Buccal,3
+JinhaoZhang,11,17,Rectangular,Vertical,Buccal,0
+JinhaoZhang,12,15,Optimized Rotation,Horizontal,Buccal,3
+JinhaoZhang,13,16,Optimized Rotation,Horizontal,Buccal,3
+JinhaoZhang,14,21,Rectangular,Horizontal,Buccal,0
+JinhaoZhang,19,25,Rectangular,Vertical,Buccal,0
+JinhaoZhang,20,1,Optimized Rotation,Vertical,Buccal,3
+JinhaoZhang,21,2,Optimized Rotation,Horizontal,Buccal,3
+JinhaoZhang,21,3,Optimized Rotation,Horizontal,Buccal,3
+JinhaoZhang,22,4,Optimized Rotation,Horizontal,Buccal,3
+JinhaoZhang,22,5,Optimized Rotation,Horizontal,Buccal,3
+JinhaoZhang,22,22,Rectangular,Vertical,Buccal,0
+JinhaoZhang,27,23,Rectangular,Vertical,Buccal,0
+JinhaoZhang,28,6,Optimized Extrusion,Vertical,Buccal,3
+JinhaoZhang,29,7,Optimized Rotation,Vertical,Buccal,3
+JinhaoZhang,30,24,Rectangular,Horizontal,Buccal,0
+JinxingLei,3,24,Rectangular,Horizontal,Buccal,0
+JinxingLei,5,10,Optimized Rotation,Vertical,Buccal,3
+JinxingLei,5,11,Optimized Rotation,Horizontal,Buccal,3
+JinxingLei,6,12,Optimized Extrusion,Vertical,Buccal,3
+JinxingLei,6,22,Rectangular,Vertical,Buccal,0
+JinxingLei,7,13,Rectangular,Vertical,Buccal,3
+JinxingLei,8,14,Optimized Extrusion,Vertical,Buccal,3
+JinxingLei,9,15,Optimized Extrusion,Vertical,Buccal,3
+JinxingLei,10,16,Optimized Rotation,Horizontal,Buccal,3
+JinxingLei,11,17,Optimized Rotation,Vertical,Buccal,3
+JinxingLei,12,18,Optimized Rotation,Vertical,Buccal,3
+JinxingLei,12,19,Optimized Rotation,Horizontal,Buccal,3
+JinxingLei,14,27,Rectangular,Horizontal,Buccal,0
+JinxingLei,20,1,Optimized Extrusion,Vertical,Buccal,3
+JinxingLei,21,2,Optimized Rotation,Vertical,Buccal,3
+JinxingLei,22,3,Optimized Rotation,Horizontal,Buccal,3
+JinxingLei,22,4,Optimized Rotation,Horizontal,Buccal,3
+JinxingLei,25,5,Rectangular,Vertical,Buccal,3
+JinxingLei,27,6,Rectangular,Vertical,Buccal,3
+JinxingLei,28,7,Optimized Rotation,Vertical,Buccal,3
+JinxingLei,28,8,Optimized Rotation,Horizontal,Buccal,3
+JinxingLei,28,23,Rectangular,Horizontal,Buccal,0
+JinxingLei,29,9,Optimized Rotation,Vertical,Buccal,3
+JinxingLei,30,20,Rectangular,Vertical,Buccal,0
+JinxingLei,31,21,Rectangular,Horizontal,Buccal,0
+JunxiongYang,3,9,Optimized Rotation,Horizontal,Buccal,0
+JunxiongYang,3,23,Rectangular,Horizontal,Buccal,0
+JunxiongYang,4,10,Optimized Rotation,Horizontal,Buccal,0
+JunxiongYang,5,11,Optimized Rotation,Vertical,Buccal,0
+JunxiongYang,6,12,Rectangular,Vertical,Buccal,0
+JunxiongYang,8,13,Optimized Extrusion,Vertical,Buccal,0
+JunxiongYang,9,14,Optimized Extrusion,Vertical,Buccal,0
+JunxiongYang,10,15,Optimized Rotation,Vertical,Buccal,0
+JunxiongYang,11,16,Rectangular,Vertical,Buccal,0
+JunxiongYang,12,17,Optimized Rotation,Horizontal,Buccal,0
+JunxiongYang,13,18,Optimized Rotation,Vertical,Buccal,0
+JunxiongYang,14,19,Optimized Rotation,Vertical,Buccal,0
+JunxiongYang,14,25,Rectangular,Horizontal,Buccal,0
+JunxiongYang,15,20,Rectangular,Vertical,Buccal,0
+JunxiongYang,18,1,Rectangular,Vertical,Buccal,0
+JunxiongYang,18,21,Rectangular,Horizontal,Buccal,0
+JunxiongYang,20,2,Optimized Rotation,Horizontal,Buccal,0
+JunxiongYang,21,3,Rectangular,Horizontal,Buccal,0
+JunxiongYang,22,4,Rectangular,Vertical,Buccal,0
+JunxiongYang,27,5,Rectangular,Vertical,Buccal,0
+JunxiongYang,28,6,Rectangular,Horizontal,Buccal,0
+JunxiongYang,29,7,Optimized Extrusion,Vertical,Buccal,0
+JunxiongYang,31,8,Rectangular,Vertical,Buccal,0
+JunxiongYang,31,22,Rectangular,Horizontal,Buccal,0
+KexinZhang,3,22,Rectangular,Horizontal,Buccal,0
+KexinZhang,5,8,Optimized Extrusion,Vertical,Buccal,3
+KexinZhang,5,24,Rectangular,Vertical,Buccal,0
+KexinZhang,6,23,Rectangular,Vertical,Buccal,0
+KexinZhang,8,9,Optimized Rotation,Horizontal,Buccal,3
+KexinZhang,8,10,Optimized Rotation,Horizontal,Buccal,3
+KexinZhang,9,11,Optimized Rotation,Horizontal,Buccal,3
+KexinZhang,9,12,Optimized Rotation,Horizontal,Buccal,3
+KexinZhang,10,13,Optimized Rotation,Vertical,Buccal,3
+KexinZhang,11,14,Optimized Rotation,Horizontal,Buccal,3
+KexinZhang,11,15,Optimized Rotation,Horizontal,Buccal,3
+KexinZhang,11,25,Rectangular,Horizontal,Buccal,0
+KexinZhang,12,16,Optimized Rotation,Horizontal,Buccal,3
+KexinZhang,12,26,Rectangular,Vertical,Buccal,0
+KexinZhang,14,17,Rectangular,Horizontal,Buccal,3
+KexinZhang,20,1,Optimized Rotation,Vertical,Buccal,3
+KexinZhang,21,2,Optimized Extrusion,Vertical,Buccal,3
+KexinZhang,21,21,Rectangular,Vertical,Buccal,0
+KexinZhang,22,3,Optimized Rotation,Vertical,Buccal,3
+KexinZhang,22,20,Rectangular,Vertical,Buccal,0
+KexinZhang,27,4,Optimized Rotation,Horizontal,Buccal,3
+KexinZhang,27,5,Optimized Rotation,Horizontal,Buccal,3
+KexinZhang,27,18,Rectangular,Vertical,Buccal,0
+KexinZhang,28,6,Optimized Rotation,Vertical,Buccal,3
+KexinZhang,28,19,Rectangular,Vertical,Buccal,0
+KexinZhang,29,7,Optimized Extrusion,Vertical,Buccal,3
+KeXu,2,8,Optimized Rotation,Horizontal,Buccal,3
+KeXu,3,9,Optimized Rotation,Horizontal,Buccal,3
+KeXu,5,10,Optimized Rotation,Vertical,Buccal,3
+KeXu,6,11,Rectangular,Vertical,Buccal,3
+KeXu,11,12,Rectangular,Vertical,Buccal,3
+KeXu,12,13,Optimized Rotation,Vertical,Buccal,3
+KeXu,14,14,Optimized Rotation,Horizontal,Buccal,3
+KeXu,15,15,Optimized Rotation,Horizontal,Buccal,3
+KeXu,19,1,Rectangular,Vertical,Buccal,3
+KeXu,21,2,Ellipsoidal,Horizontal,Lingual,3
+KeXu,21,3,Rectangular,Vertical,Buccal,3
+KeXu,22,4,Rectangular,Vertical,Buccal,3
+KeXu,27,5,Rectangular,Vertical,Buccal,3
+KeXu,28,6,Optimized Extrusion,Vertical,Buccal,3
+KeXu,30,7,Rectangular,Vertical,Buccal,3
+LanYang,2,9,Rectangular,Vertical,Buccal,3
+LanYang,3,10,Rectangular,Vertical,Buccal,3
+LanYang,5,11,Rectangular,Vertical,Buccal,3
+LanYang,6,12,Rectangular,Vertical,Buccal,3
+LanYang,7,13,Optimized Extrusion,Vertical,Buccal,3
+LanYang,8,14,Optimized Extrusion,Vertical,Buccal,3
+LanYang,9,15,Optimized Extrusion,Vertical,Buccal,3
+LanYang,10,16,Optimized Extrusion,Vertical,Buccal,3
+LanYang,11,17,Optimized Rotation,Vertical,Buccal,3
+LanYang,12,18,Optimized Rotation,Vertical,Buccal,3
+LanYang,12,19,Optimized Rotation,Horizontal,Buccal,3
+LanYang,14,20,Rectangular,Vertical,Buccal,3
+LanYang,15,21,Rectangular,Vertical,Buccal,3
+LanYang,19,1,Rectangular,Vertical,Buccal,3
+LanYang,19,25,Rectangular,Vertical,Buccal,0
+LanYang,20,2,Optimized Rotation,Horizontal,Buccal,3
+LanYang,22,3,Optimized Rotation,Horizontal,Buccal,3
+LanYang,22,4,Optimized Rotation,Horizontal,Buccal,3
+LanYang,27,5,Optimized Rotation,Horizontal,Buccal,3
+LanYang,27,6,Optimized Rotation,Horizontal,Buccal,3
+LanYang,29,7,Rectangular,Vertical,Buccal,3
+LanYang,30,8,Rectangular,Vertical,Buccal,3
+LanYang,30,24,Rectangular,Vertical,Buccal,0
+leiyang,4,9,Optimized Rotation,Vertical,Buccal,3
+leiyang,4,10,Optimized Rotation,Horizontal,Buccal,3
+leiyang,6,11,Optimized Rotation,Vertical,Buccal,3
+leiyang,12,12,Optimized Rotation,Horizontal,Buccal,3
+leiyang,12,13,Optimized Rotation,Horizontal,Buccal,3
+leiyang,13,14,Optimized Rotation,Vertical,Buccal,3
+leiyang,20,1,Optimized Rotation,Vertical,Buccal,3
+leiyang,21,2,Optimized Rotation,Vertical,Buccal,3
+leiyang,22,3,Rectangular,Vertical,Buccal,3
+leiyang,24,4,Rectangular,Vertical,Buccal,3
+leiyang,27,5,Optimized Rotation,Horizontal,Buccal,3
+leiyang,27,6,Optimized Rotation,Horizontal,Buccal,3
+leiyang,28,7,Optimized Extrusion,Vertical,Buccal,3
+leiyang,29,8,Optimized Rotation,Vertical,Buccal,3
+LingminLi,3,8,Optimized Rotation,Vertical,Buccal,3
+LingminLi,4,9,Optimized Rotation,Horizontal,Buccal,3
+LingminLi,6,10,Optimized Rotation,Vertical,Buccal,3
+LingminLi,11,11,Optimized Rotation,Horizontal,Buccal,3
+LingminLi,11,12,Optimized Rotation,Horizontal,Buccal,3
+LingminLi,13,13,Optimized Rotation,Horizontal,Buccal,3
+LingminLi,14,14,Optimized Rotation,Vertical,Buccal,3
+LingminLi,15,15,Optimized Rotation,Horizontal,Buccal,3
+LingminLi,20,1,Rectangular,Horizontal,Buccal,3
+LingminLi,20,20,Rectangular,Horizontal,Buccal,0
+LingminLi,21,2,Rectangular,Vertical,Buccal,3
+LingminLi,22,3,Optimized Rotation,Vertical,Buccal,3
+LingminLi,27,4,Optimized Rotation,Vertical,Buccal,3
+LingminLi,28,5,Optimized Extrusion,Vertical,Buccal,3
+LingminLi,29,6,Rectangular,Vertical,Buccal,3
+LingminLi,29,22,Rectangular,Vertical,Buccal,0
+LingminLi,31,7,Ellipsoidal,Horizontal,Lingual,3
+LinliZhang,4,7,Optimized Rotation,Horizontal,Buccal,3
+LinliZhang,5,8,Optimized Extrusion,Vertical,Buccal,3
+LinliZhang,12,9,Optimized Extrusion,Vertical,Buccal,3
+LinliZhang,13,10,Optimized Rotation,Horizontal,Buccal,3
+LinliZhang,14,11,Optimized Rotation,Horizontal,Buccal,3
+LinliZhang,20,1,Optimized Rotation,Horizontal,Buccal,3
+LinliZhang,21,2,Optimized Rotation,Vertical,Buccal,3
+LinliZhang,22,3,Rectangular,Vertical,Buccal,3
+LinliZhang,27,4,Rectangular,Vertical,Buccal,3
+LinliZhang,28,5,Optimized Rotation,Vertical,Buccal,3
+LinliZhang,29,6,Optimized Rotation,Vertical,Buccal,3
+LipingGu,2,18,Rectangular,Horizontal,Buccal,15
+LipingGu,2,19,Ellipsoidal,Horizontal,Lingual,15
+LipingGu,3,15,Rectangular,Horizontal,Buccal,26
+LipingGu,3,16,Ellipsoidal,Horizontal,Lingual,3
+LipingGu,3,17,Ellipsoidal,Horizontal,Lingual,26
+LipingGu,4,14,Optimized Rotation,Vertical,Buccal,3
+LipingGu,5,13,Optimized Extrusion,Vertical,Buccal,3
+LipingGu,6,11,Rectangular,Vertical,Buccal,3
+LipingGu,6,12,Ellipsoidal,Horizontal,Lingual,26
+LipingGu,11,9,Ellipsoidal,Horizontal,Lingual,26
+LipingGu,11,10,Rectangular,Vertical,Buccal,3
+LipingGu,12,7,Optimized Rotation,Vertical,Buccal,3
+LipingGu,12,8,Optimized Rotation,Horizontal,Buccal,3
+LipingGu,13,6,Optimized Rotation,Horizontal,Buccal,3
+LipingGu,14,3,Rectangular,Horizontal,Buccal,26
+LipingGu,14,4,Ellipsoidal,Horizontal,Lingual,3
+LipingGu,14,5,Ellipsoidal,Horizontal,Lingual,26
+LipingGu,15,1,Rectangular,Horizontal,Buccal,15
+LipingGu,15,2,Ellipsoidal,Horizontal,Lingual,15
+MengTian,3,20,Ellipsoidal,Horizontal,Lingual,0
+MengTian,4,8,Optimized Rotation,Vertical,Buccal,0
+MengTian,5,9,Optimized Rotation,Horizontal,Buccal,0
+MengTian,6,10,Optimized Rotation,Horizontal,Buccal,0
+MengTian,6,11,Optimized Rotation,Horizontal,Buccal,0
+MengTian,7,12,Optimized Extrusion,Vertical,Buccal,0
+MengTian,8,13,Optimized Extrusion,Vertical,Buccal,0
+MengTian,9,14,Optimized Extrusion,Vertical,Buccal,0
+MengTian,10,15,Optimized Extrusion,Vertical,Buccal,0
+MengTian,11,16,Optimized Rotation,Vertical,Buccal,0
+MengTian,12,17,Optimized Rotation,Vertical,Buccal,0
+MengTian,13,18,Optimized Rotation,Vertical,Buccal,0
+MengTian,14,21,Ellipsoidal,Horizontal,Lingual,0
+MengTian,20,1,Optimized Rotation,Vertical,Buccal,0
+MengTian,21,2,Optimized Rotation,Vertical,Buccal,0
+MengTian,22,3,Optimized Rotation,Vertical,Buccal,0
+MengTian,27,4,Optimized Rotation,Horizontal,Buccal,0
+MengTian,27,5,Optimized Rotation,Horizontal,Buccal,0
+MengTian,28,6,Optimized Rotation,Vertical,Buccal,0
+MengTian,29,7,Optimized Rotation,Horizontal,Buccal,0
+MengTian,30,22,Ellipsoidal,Horizontal,Lingual,0
+MiaoqianXu,4,8,Optimized Rotation,Horizontal,Buccal,3
+MiaoqianXu,5,9,Rectangular,Horizontal,Buccal,3
+MiaoqianXu,6,10,Rectangular,Vertical,Buccal,3
+MiaoqianXu,7,11,Optimized Rotation,Horizontal,Buccal,3
+MiaoqianXu,10,12,Optimized Rotation,Horizontal,Buccal,3
+MiaoqianXu,11,13,Optimized Rotation,Vertical,Buccal,3
+MiaoqianXu,12,14,Rectangular,Horizontal,Buccal,3
+MiaoqianXu,13,15,Optimized Rotation,Horizontal,Buccal,3
+MiaoqianXu,20,1,Optimized Extrusion,Vertical,Buccal,3
+MiaoqianXu,21,2,Optimized Rotation,Horizontal,Buccal,3
+MiaoqianXu,21,3,Optimized Rotation,Horizontal,Buccal,3
+MiaoqianXu,22,4,Rectangular,Vertical,Buccal,3
+MiaoqianXu,27,5,Rectangular,Vertical,Buccal,3
+MiaoqianXu,28,6,Optimized Rotation,Vertical,Buccal,3
+MiaoqianXu,29,7,Optimized Rotation,Horizontal,Buccal,3
+MinWang,2,10,Optimized Rotation,Horizontal,Buccal,12
+MinWang,3,11,Optimized Rotation,Horizontal,Buccal,12
+MinWang,4,12,Optimized Rotation,Horizontal,Buccal,12
+MinWang,6,13,Optimized Rotation,Horizontal,Buccal,12
+MinWang,6,14,Optimized Rotation,Horizontal,Buccal,12
+MinWang,7,15,Optimized Rotation,Horizontal,Buccal,3
+MinWang,10,16,Optimized Rotation,Vertical,Buccal,3
+MinWang,11,17,Optimized Rotation,Horizontal,Buccal,12
+MinWang,11,18,Optimized Rotation,Horizontal,Buccal,12
+MinWang,13,19,Optimized Rotation,Horizontal,Buccal,12
+MinWang,14,20,Optimized Rotation,Horizontal,Buccal,12
+MinWang,15,21,Optimized Rotation,Horizontal,Buccal,12
+MinWang,18,1,Optimized Rotation,Horizontal,Buccal,12
+MinWang,19,2,Optimized Rotation,Horizontal,Buccal,12
+MinWang,20,3,Optimized Rotation,Vertical,Buccal,12
+MinWang,22,4,Optimized Rotation,Horizontal,Buccal,12
+MinWang,22,5,Optimized Rotation,Horizontal,Buccal,12
+MinWang,27,6,Optimized Rotation,Horizontal,Buccal,12
+MinWang,27,7,Optimized Rotation,Horizontal,Buccal,12
+MinWang,29,8,Optimized Rotation,Horizontal,Buccal,12
+MinWang,30,9,Optimized Rotation,Horizontal,Buccal,12
+PingLi,3,7,Rectangular,Vertical,Buccal,3
+PingLi,4,8,Optimized Rotation,Horizontal,Buccal,3
+PingLi,5,9,Optimized Rotation,Horizontal,Buccal,3
+PingLi,5,10,Optimized Rotation,Horizontal,Buccal,3
+PingLi,6,11,Optimized Rotation,Vertical,Buccal,3
+PingLi,7,12,Optimized Rotation,Vertical,Buccal,3
+PingLi,8,13,Optimized Rotation,Horizontal,Buccal,3
+PingLi,8,14,Optimized Rotation,Horizontal,Buccal,3
+PingLi,12,21,Rectangular,Vertical,Buccal,0
+PingLi,13,15,Optimized Rotation,Vertical,Buccal,3
+PingLi,13,16,Optimized Rotation,Horizontal,Buccal,3
+PingLi,14,17,Rectangular,Horizontal,Buccal,3
+PingLi,19,20,Rectangular,Horizontal,Buccal,0
+PingLi,20,1,Rectangular,Vertical,Buccal,3
+PingLi,21,2,Rectangular,Vertical,Buccal,3
+PingLi,22,3,Rectangular,Vertical,Buccal,3
+PingLi,27,4,Rectangular,Vertical,Buccal,3
+PingLi,28,5,Rectangular,Vertical,Buccal,3
+PingLi,29,6,Rectangular,Vertical,Buccal,3
+PingLi,30,19,Rectangular,Horizontal,Buccal,0
+QunXiong,3,5,Optimized Rotation,Horizontal,Buccal,3
+QunXiong,4,6,Optimized Rotation,Horizontal,Buccal,3
+QunXiong,5,7,Optimized Extrusion,Vertical,Buccal,3
+QunXiong,6,8,Optimized Rotation,Horizontal,Buccal,3
+QunXiong,6,9,Optimized Rotation,Horizontal,Buccal,3
+QunXiong,7,10,Optimized Rotation,Vertical,Buccal,3
+QunXiong,8,11,Optimized Rotation,Horizontal,Buccal,3
+QunXiong,8,12,Optimized Rotation,Horizontal,Buccal,3
+QunXiong,9,13,Optimized Rotation,Horizontal,Buccal,3
+QunXiong,9,14,Optimized Rotation,Horizontal,Buccal,3
+QunXiong,10,15,Optimized Rotation,Horizontal,Buccal,3
+QunXiong,11,16,Optimized Rotation,Vertical,Buccal,3
+QunXiong,12,17,Optimized Extrusion,Vertical,Buccal,3
+QunXiong,13,18,Optimized Rotation,Horizontal,Buccal,3
+QunXiong,14,19,Optimized Rotation,Vertical,Buccal,3
+QunXiong,20,1,Optimized Rotation,Vertical,Buccal,3
+QunXiong,21,2,Optimized Extrusion,Vertical,Buccal,3
+QunXiong,28,3,Optimized Rotation,Vertical,Buccal,3
+QunXiong,29,4,Optimized Rotation,Vertical,Buccal,3
+RongWu,4,10,Optimized Rotation,Vertical,Buccal,3
+RongWu,5,11,Rectangular,Horizontal,Buccal,3
+RongWu,6,12,Optimized Rotation,Vertical,Buccal,3
+RongWu,7,13,Optimized Rotation,Vertical,Buccal,3
+RongWu,9,14,Optimized Rotation,Horizontal,Buccal,3
+RongWu,9,15,Optimized Rotation,Horizontal,Buccal,3
+RongWu,10,16,Optimized Rotation,Vertical,Buccal,3
+RongWu,11,17,Optimized Rotation,Horizontal,Buccal,3
+RongWu,11,18,Optimized Rotation,Horizontal,Buccal,3
+RongWu,12,19,Rectangular,Horizontal,Buccal,3
+RongWu,13,20,Optimized Rotation,Horizontal,Buccal,3
+RongWu,20,1,Optimized Rotation,Horizontal,Buccal,3
+RongWu,20,2,Optimized Rotation,Horizontal,Buccal,3
+RongWu,21,3,Optimized Rotation,Vertical,Buccal,3
+RongWu,21,4,Optimized Rotation,Horizontal,Buccal,3
+RongWu,22,5,Optimized Rotation,Horizontal,Buccal,3
+RongWu,22,6,Optimized Rotation,Horizontal,Buccal,3
+RongWu,27,7,Optimized Rotation,Vertical,Buccal,3
+RongWu,28,8,Optimized Rotation,Vertical,Buccal,3
+RongWu,29,9,Optimized Extrusion,Vertical,Buccal,3
+RuijiLi,4,7,Optimized Rotation,Horizontal,Buccal,0
+RuijiLi,6,8,Optimized Rotation,Horizontal,Buccal,0
+RuijiLi,6,9,Optimized Rotation,Horizontal,Buccal,0
+RuijiLi,7,10,Optimized Rotation,Horizontal,Buccal,0
+RuijiLi,9,11,Optimized Rotation,Horizontal,Buccal,0
+RuijiLi,9,12,Optimized Rotation,Horizontal,Buccal,0
+RuijiLi,10,13,Optimized Rotation,Horizontal,Buccal,0
+RuijiLi,11,14,Optimized Rotation,Vertical,Buccal,0
+RuijiLi,13,15,Optimized Rotation,Horizontal,Buccal,0
+RuijiLi,20,1,Optimized Rotation,Vertical,Buccal,0
+RuijiLi,21,2,Optimized Extrusion,Vertical,Buccal,0
+RuijiLi,22,3,Optimized Rotation,Vertical,Buccal,0
+RuijiLi,27,4,Optimized Rotation,Vertical,Buccal,0
+RuijiLi,28,5,Optimized Extrusion,Vertical,Buccal,0
+RuijiLi,29,6,Optimized Rotation,Horizontal,Buccal,0
+ShiyuCao,3,7,Ellipsoidal,Horizontal,Buccal,3
+ShiyuCao,5,8,Optimized Extrusion,Vertical,Buccal,3
+ShiyuCao,6,9,Rectangular,Horizontal,Buccal,3
+ShiyuCao,11,10,Rectangular,Horizontal,Buccal,3
+ShiyuCao,12,11,Optimized Rotation,Vertical,Buccal,3
+ShiyuCao,12,12,Optimized Rotation,Horizontal,Buccal,3
+ShiyuCao,13,13,Optimized Rotation,Horizontal,Buccal,3
+ShiyuCao,15,14,Ellipsoidal,Horizontal,Buccal,3
+ShiyuCao,20,1,Optimized Rotation,Horizontal,Buccal,3
+ShiyuCao,21,2,Rectangular,Vertical,Buccal,3
+ShiyuCao,22,3,Rectangular,Vertical,Buccal,3
+ShiyuCao,27,4,Rectangular,Vertical,Buccal,3
+ShiyuCao,28,5,Rectangular,Vertical,Buccal,3
+ShiyuCao,29,6,Optimized Extrusion,Vertical,Buccal,3
+ShuyunMeng,4,9,Optimized Rotation,Horizontal,Buccal,0
+ShuyunMeng,5,10,Rectangular,Horizontal,Buccal,0
+ShuyunMeng,6,11,Optimized Rotation,Vertical,Buccal,0
+ShuyunMeng,7,12,Optimized Rotation,Horizontal,Buccal,0
+ShuyunMeng,11,13,Optimized Rotation,Vertical,Buccal,0
+ShuyunMeng,12,14,Rectangular,Horizontal,Buccal,0
+ShuyunMeng,13,15,Optimized Rotation,Horizontal,Buccal,0
+ShuyunMeng,20,1,Optimized Rotation,Vertical,Buccal,0
+ShuyunMeng,21,2,Optimized Extrusion,Vertical,Buccal,0
+ShuyunMeng,22,3,Optimized Rotation,Vertical,Buccal,0
+ShuyunMeng,27,4,Optimized Rotation,Horizontal,Buccal,0
+ShuyunMeng,27,5,Optimized Rotation,Horizontal,Buccal,0
+ShuyunMeng,28,6,Optimized Rotation,Vertical,Buccal,0
+ShuyunMeng,28,7,Optimized Rotation,Horizontal,Buccal,0
+ShuyunMeng,29,8,Optimized Rotation,Horizontal,Buccal,0
+SongFeng,3,11,Rectangular,Horizontal,Buccal,3
+SongFeng,4,12,Optimized Rotation,Vertical,Buccal,3
+SongFeng,5,13,Optimized Rotation,Vertical,Buccal,3
+SongFeng,5,14,Optimized Rotation,Horizontal,Buccal,3
+SongFeng,6,15,Rectangular,Vertical,Buccal,3
+SongFeng,7,16,Optimized Rotation,Horizontal,Buccal,3
+SongFeng,10,17,Optimized Rotation,Vertical,Buccal,3
+SongFeng,11,18,Rectangular,Vertical,Buccal,3
+SongFeng,12,19,Optimized Rotation,Vertical,Buccal,3
+SongFeng,12,20,Optimized Rotation,Horizontal,Buccal,3
+SongFeng,13,21,Optimized Rotation,Vertical,Buccal,3
+SongFeng,13,22,Optimized Rotation,Horizontal,Buccal,3
+SongFeng,14,23,Rectangular,Horizontal,Buccal,3
+SongFeng,19,1,Rectangular,Vertical,Buccal,3
+SongFeng,20,2,Optimized Rotation,Vertical,Buccal,3
+SongFeng,21,3,Optimized Rotation,Horizontal,Buccal,3
+SongFeng,21,4,Optimized Rotation,Horizontal,Buccal,3
+SongFeng,22,5,Rectangular,Vertical,Buccal,3
+SongFeng,27,6,Rectangular,Vertical,Buccal,3
+SongFeng,28,7,Rectangular,Horizontal,Buccal,3
+SongFeng,29,8,Optimized Rotation,Horizontal,Buccal,3
+SongFeng,29,9,Optimized Rotation,Horizontal,Buccal,3
+SongFeng,30,10,Rectangular,Vertical,Buccal,3
+SumengLiang,4,14,Optimized Rotation,Horizontal,Buccal,3
+SumengLiang,5,15,Optimized Rotation,Horizontal,Buccal,3
+SumengLiang,6,16,Optimized Rotation,Vertical,Buccal,3
+SumengLiang,7,17,Optimized Extrusion,Vertical,Buccal,3
+SumengLiang,10,18,Optimized Rotation,Horizontal,Buccal,3
+SumengLiang,11,19,Optimized Rotation,Horizontal,Buccal,3
+SumengLiang,11,20,Optimized Rotation,Horizontal,Buccal,3
+SumengLiang,12,21,Optimized Rotation,Vertical,Buccal,3
+SumengLiang,14,22,Ellipsoidal,Horizontal,Lingual,3
+SumengLiang,20,1,Optimized Rotation,Vertical,Buccal,3
+SumengLiang,20,2,Optimized Rotation,Horizontal,Buccal,3
+SumengLiang,21,3,Optimized Rotation,Vertical,Buccal,3
+SumengLiang,22,4,Optimized Rotation,Vertical,Buccal,3
+SumengLiang,23,5,Optimized Extrusion,Vertical,Buccal,3
+SumengLiang,24,6,Optimized Extrusion,Vertical,Buccal,3
+SumengLiang,25,7,Optimized Extrusion,Vertical,Buccal,15
+SumengLiang,27,8,Optimized Rotation,Horizontal,Buccal,3
+SumengLiang,27,9,Optimized Rotation,Horizontal,Buccal,3
+SumengLiang,28,10,Optimized Rotation,Vertical,Buccal,3
+SumengLiang,29,11,Ellipsoidal,Horizontal,Lingual,3
+SumengLiang,29,12,Rectangular,Vertical,Buccal,3
+SumengLiang,30,13,Ellipsoidal,Horizontal,Lingual,3
+TainjiaoWang,4,7,Optimized Rotation,Horizontal,Buccal,3
+TainjiaoWang,5,8,Optimized Rotation,Horizontal,Buccal,3
+TainjiaoWang,6,9,Rectangular,Horizontal,Buccal,3
+TainjiaoWang,7,10,Optimized Rotation,Horizontal,Buccal,97
+TainjiaoWang,10,11,Optimized Rotation,Horizontal,Buccal,97
+TainjiaoWang,11,12,Rectangular,Horizontal,Buccal,3
+TainjiaoWang,12,13,Optimized Rotation,Horizontal,Buccal,3
+TainjiaoWang,13,14,Optimized Rotation,Horizontal,Buccal,3
+TainjiaoWang,20,1,Optimized Rotation,Horizontal,Buccal,3
+TainjiaoWang,21,2,Rectangular,Vertical,Buccal,3
+TainjiaoWang,22,3,Rectangular,Vertical,Buccal,3
+TainjiaoWang,27,4,Rectangular,Vertical,Buccal,3
+TainjiaoWang,28,5,Rectangular,Vertical,Buccal,3
+TainjiaoWang,29,6,Rectangular,Vertical,Buccal,3
+TengZihao,2,10,Rectangular,Vertical,Buccal,35
+TengZihao,3,11,Rectangular,Vertical,Buccal,23
+TengZihao,4,12,Optimized Rotation,Horizontal,Buccal,3
+TengZihao,4,13,Optimized Rotation,Horizontal,Buccal,3
+TengZihao,5,14,Optimized Rotation,Horizontal,Buccal,3
+TengZihao,5,15,Optimized Rotation,Horizontal,Buccal,3
+TengZihao,6,16,Optimized Rotation,Horizontal,Buccal,3
+TengZihao,6,17,Optimized Rotation,Horizontal,Buccal,3
+TengZihao,7,18,Optimized Extrusion,Vertical,Buccal,16
+TengZihao,10,19,Optimized Extrusion,Vertical,Buccal,16
+TengZihao,11,20,Optimized Rotation,Vertical,Buccal,3
+TengZihao,12,21,Optimized Rotation,Horizontal,Buccal,3
+TengZihao,12,22,Optimized Rotation,Horizontal,Buccal,3
+TengZihao,13,23,Optimized Rotation,Vertical,Buccal,3
+TengZihao,13,24,Optimized Rotation,Horizontal,Buccal,3
+TengZihao,14,25,Rectangular,Vertical,Buccal,23
+TengZihao,15,26,Rectangular,Vertical,Buccal,35
+TengZihao,18,1,Rectangular,Vertical,Buccal,35
+TengZihao,19,2,Rectangular,Vertical,Buccal,23
+TengZihao,20,3,Optimized Rotation,Vertical,Buccal,3
+TengZihao,21,4,Optimized Rotation,Vertical,Buccal,3
+TengZihao,28,5,Optimized Rotation,Vertical,Buccal,3
+TengZihao,29,6,Optimized Rotation,Horizontal,Buccal,3
+TengZihao,29,7,Optimized Rotation,Horizontal,Buccal,3
+TengZihao,30,8,Rectangular,Vertical,Buccal,23
+TengZihao,31,9,Rectangular,Vertical,Buccal,35
+TianluZhong,2,16,Optimized Rotation,Vertical,Buccal,3
+TianluZhong,3,17,Optimized Rotation,Vertical,Buccal,3
+TianluZhong,4,18,Optimized Rotation,Horizontal,Buccal,3
+TianluZhong,6,19,Optimized Rotation,Vertical,Buccal,3
+TianluZhong,7,20,Optimized Rotation,Vertical,Buccal,3
+TianluZhong,11,21,Optimized Rotation,Vertical,Buccal,3
+TianluZhong,12,22,Optimized Rotation,Vertical,Buccal,3
+TianluZhong,13,23,Optimized Extrusion,Vertical,Buccal,3
+TianluZhong,20,1,Optimized Rotation,Horizontal,Buccal,3
+TianluZhong,20,2,Optimized Rotation,Horizontal,Buccal,3
+TianluZhong,21,3,Optimized Rotation,Horizontal,Buccal,3
+TianluZhong,21,4,Optimized Rotation,Horizontal,Buccal,3
+TianluZhong,22,5,Optimized Rotation,Horizontal,Buccal,3
+TianluZhong,22,6,Optimized Rotation,Horizontal,Buccal,3
+TianluZhong,24,7,Rectangular,Vertical,Buccal,3
+TianluZhong,26,8,Rectangular,Vertical,Buccal,3
+TianluZhong,27,9,Optimized Rotation,Horizontal,Buccal,3
+TianluZhong,27,10,Optimized Rotation,Horizontal,Buccal,3
+TianluZhong,28,11,Optimized Rotation,Horizontal,Buccal,3
+TianluZhong,28,12,Optimized Rotation,Horizontal,Buccal,3
+TianluZhong,29,13,Optimized Rotation,Horizontal,Buccal,3
+TianluZhong,29,14,Optimized Rotation,Horizontal,Buccal,3
+TianluZhong,31,15,Rectangular,Horizontal,Buccal,3
+TianqiFeng,3,16,Rectangular,Horizontal,Buccal,0
+TianqiFeng,4,6,Optimized Extrusion,Vertical,Buccal,0
+TianqiFeng,5,7,Optimized Rotation,Horizontal,Buccal,0
+TianqiFeng,6,8,Optimized Rotation,Horizontal,Buccal,0
+TianqiFeng,6,9,Optimized Rotation,Horizontal,Buccal,0
+TianqiFeng,6,18,Rectangular,Vertical,Buccal,0
+TianqiFeng,7,10,Optimized Rotation,Vertical,Buccal,0
+TianqiFeng,10,11,Optimized Extrusion,Vertical,Buccal,0
+TianqiFeng,11,12,Optimized Rotation,Horizontal,Buccal,0
+TianqiFeng,11,13,Optimized Rotation,Horizontal,Buccal,0
+TianqiFeng,11,19,Rectangular,Vertical,Buccal,0
+TianqiFeng,12,14,Optimized Rotation,Horizontal,Buccal,0
+TianqiFeng,13,15,Optimized Rotation,Horizontal,Buccal,0
+TianqiFeng,14,17,Rectangular,Horizontal,Buccal,0
+TianqiFeng,20,1,Optimized Rotation,Vertical,Buccal,0
+TianqiFeng,21,2,Optimized Rotation,Vertical,Buccal,0
+TianqiFeng,27,3,Optimized Rotation,Vertical,Buccal,0
+TianqiFeng,28,4,Optimized Rotation,Vertical,Buccal,0
+TianqiFeng,29,5,Optimized Rotation,Vertical,Buccal,0
+TinglaiChen,3,13,Ellipsoidal,Horizontal,Lingual,3
+TinglaiChen,4,14,Optimized Rotation,Vertical,Buccal,3
+TinglaiChen,5,15,Optimized Rotation,Vertical,Buccal,3
+TinglaiChen,5,16,Optimized Rotation,Horizontal,Buccal,3
+TinglaiChen,7,17,Optimized Rotation,Vertical,Buccal,3
+TinglaiChen,8,18,Optimized Rotation,Horizontal,Buccal,3
+TinglaiChen,8,19,Optimized Rotation,Horizontal,Buccal,3
+TinglaiChen,11,20,Optimized Rotation,Horizontal,Buccal,3
+TinglaiChen,11,21,Optimized Rotation,Horizontal,Buccal,3
+TinglaiChen,12,22,Optimized Rotation,Vertical,Buccal,3
+TinglaiChen,12,23,Optimized Rotation,Horizontal,Buccal,3
+TinglaiChen,13,24,Optimized Extrusion,Vertical,Buccal,3
+TinglaiChen,14,25,Ellipsoidal,Horizontal,Lingual,3
+TinglaiChen,19,1,Ellipsoidal,Horizontal,Lingual,3
+TinglaiChen,20,2,Optimized Rotation,Vertical,Buccal,3
+TinglaiChen,20,3,Ellipsoidal,Horizontal,Lingual,3
+TinglaiChen,21,4,Optimized Extrusion,Vertical,Buccal,3
+TinglaiChen,22,5,Optimized Rotation,Horizontal,Buccal,3
+TinglaiChen,22,6,Optimized Rotation,Horizontal,Buccal,3
+TinglaiChen,25,7,Rectangular,Vertical,Buccal,3
+TinglaiChen,27,8,Rectangular,Vertical,Buccal,3
+TinglaiChen,28,9,Optimized Extrusion,Vertical,Buccal,3
+TinglaiChen,29,10,Optimized Rotation,Vertical,Buccal,3
+TinglaiChen,29,11,Ellipsoidal,Horizontal,Lingual,3
+TinglaiChen,30,12,Ellipsoidal,Horizontal,Lingual,3
+Wei xinWang,3,5,Optimized Rotation,Horizontal,Buccal,3
+Wei xinWang,4,6,Rectangular,Horizontal,Buccal,3
+Wei xinWang,5,7,Optimized Rotation,Horizontal,Buccal,3
+Wei xinWang,6,8,Rectangular,Vertical,Buccal,3
+Wei xinWang,10,9,Optimized Rotation,Horizontal,Buccal,19
+Wei xinWang,11,10,Rectangular,Vertical,Buccal,3
+Wei xinWang,12,11,Optimized Rotation,Horizontal,Buccal,3
+Wei xinWang,13,12,Optimized Rotation,Horizontal,Buccal,3
+Wei xinWang,14,13,Optimized Rotation,Horizontal,Buccal,3
+Wei xinWang,21,1,Optimized Extrusion,Vertical,Buccal,3
+Wei xinWang,22,2,Rectangular,Vertical,Buccal,3
+Wei xinWang,27,3,Rectangular,Vertical,Buccal,3
+Wei xinWang,28,4,Optimized Extrusion,Vertical,Buccal,3
+WenjieWang,2,10,Ellipsoidal,Horizontal,Buccal,3
+WenjieWang,3,11,Optimized Rotation,Horizontal,Buccal,3
+WenjieWang,4,12,Optimized Rotation,Horizontal,Buccal,3
+WenjieWang,6,13,Optimized Rotation,Horizontal,Buccal,3
+WenjieWang,6,14,Optimized Rotation,Horizontal,Buccal,3
+WenjieWang,11,15,Optimized Rotation,Horizontal,Buccal,3
+WenjieWang,11,16,Optimized Rotation,Horizontal,Buccal,3
+WenjieWang,13,17,Optimized Rotation,Horizontal,Buccal,3
+WenjieWang,14,18,Optimized Rotation,Vertical,Buccal,3
+WenjieWang,15,19,Ellipsoidal,Horizontal,Buccal,3
+WenjieWang,18,1,Rectangular,Horizontal,Buccal,3
+WenjieWang,19,2,Rectangular,Vertical,Buccal,3
+WenjieWang,20,3,Rectangular,Vertical,Buccal,3
+WenjieWang,22,4,Optimized Rotation,Horizontal,Buccal,3
+WenjieWang,22,5,Optimized Rotation,Horizontal,Buccal,3
+WenjieWang,27,6,Rectangular,Vertical,Buccal,3
+WenjieWang,29,7,Rectangular,Vertical,Buccal,3
+WenjieWang,30,8,Rectangular,Vertical,Buccal,3
+WenjieWang,31,9,Rectangular,Horizontal,Buccal,3
+WentaoNi,4,6,Optimized Rotation,Vertical,Buccal,3
+WentaoNi,5,7,Optimized Rotation,Vertical,Buccal,3
+WentaoNi,6,8,Optimized Extrusion,Vertical,Buccal,3
+WentaoNi,7,9,Optimized Extrusion,Vertical,Buccal,3
+WentaoNi,8,10,Optimized Extrusion,Vertical,Buccal,3
+WentaoNi,9,11,Optimized Extrusion,Vertical,Buccal,3
+WentaoNi,10,12,Optimized Extrusion,Vertical,Buccal,3
+WentaoNi,11,13,Optimized Extrusion,Vertical,Buccal,3
+WentaoNi,12,14,Optimized Rotation,Vertical,Buccal,3
+WentaoNi,19,17,Rectangular,Horizontal,Buccal,0
+WentaoNi,20,1,Optimized Rotation,Vertical,Buccal,3
+WentaoNi,21,2,Optimized Extrusion,Vertical,Buccal,3
+WentaoNi,27,3,Optimized Rotation,Vertical,Buccal,3
+WentaoNi,28,4,Optimized Rotation,Vertical,Buccal,3
+WentaoNi,29,5,Optimized Rotation,Vertical,Buccal,3
+WentaoNi,30,18,Rectangular,Horizontal,Buccal,0
+WentingHou,2,9,Rectangular,Horizontal,Buccal,0
+WentingHou,3,10,Optimized Rotation,Horizontal,Buccal,0
+WentingHou,3,27,Rectangular,Horizontal,Buccal,0
+WentingHou,4,11,Optimized Rotation,Horizontal,Buccal,0
+WentingHou,5,12,Optimized Rotation,Horizontal,Buccal,0
+WentingHou,5,30,Rectangular,Vertical,Buccal,0
+WentingHou,6,13,Optimized Rotation,Horizontal,Buccal,0
+WentingHou,6,14,Optimized Rotation,Horizontal,Buccal,0
+WentingHou,6,24,Rectangular,Vertical,Buccal,0
+WentingHou,11,15,Optimized Rotation,Horizontal,Buccal,0
+WentingHou,11,16,Optimized Rotation,Horizontal,Buccal,0
+WentingHou,11,25,Rectangular,Vertical,Buccal,0
+WentingHou,12,17,Optimized Rotation,Horizontal,Buccal,0
+WentingHou,12,31,Rectangular,Vertical,Buccal,0
+WentingHou,13,18,Optimized Rotation,Horizontal,Buccal,0
+WentingHou,14,26,Rectangular,Horizontal,Buccal,0
+WentingHou,19,23,Rectangular,Vertical,Buccal,0
+WentingHou,20,1,Optimized Rotation,Vertical,Buccal,0
+WentingHou,21,2,Optimized Extrusion,Vertical,Buccal,0
+WentingHou,21,22,Rectangular,Vertical,Buccal,0
+WentingHou,22,3,Optimized Rotation,Horizontal,Buccal,0
+WentingHou,22,4,Optimized Rotation,Horizontal,Buccal,0
+WentingHou,22,21,Rectangular,Vertical,Buccal,0
+WentingHou,27,5,Optimized Rotation,Horizontal,Buccal,0
+WentingHou,27,6,Optimized Rotation,Horizontal,Buccal,0
+WentingHou,27,19,Rectangular,Vertical,Buccal,0
+WentingHou,28,7,Optimized Rotation,Vertical,Buccal,0
+WentingHou,28,20,Rectangular,Vertical,Buccal,0
+WentingHou,29,8,Optimized Extrusion,Vertical,Buccal,0
+WentingHou,30,28,Rectangular,Vertical,Buccal,0
+XiangningZhou,6,6,Optimized Rotation,Vertical,Buccal,0
+XiangningZhou,7,7,Optimized Rotation,Horizontal,Buccal,0
+XiangningZhou,10,8,Optimized Rotation,Horizontal,Buccal,0
+XiangningZhou,11,9,Optimized Rotation,Vertical,Buccal,0
+XiangningZhou,12,10,Optimized Rotation,Vertical,Buccal,0
+XiangningZhou,13,11,Optimized Rotation,Horizontal,Buccal,0
+XiangningZhou,19,12,Rectangular,Horizontal,Buccal,0
+XiangningZhou,20,1,Optimized Rotation,Horizontal,Buccal,0
+XiangningZhou,21,2,Optimized Rotation,Vertical,Buccal,0
+XiangningZhou,22,3,Optimized Rotation,Vertical,Buccal,0
+XiangningZhou,27,4,Optimized Rotation,Vertical,Buccal,0
+XiangningZhou,28,5,Optimized Extrusion,Vertical,Buccal,0
+XintianShu,3,6,Rectangular,Horizontal,Buccal,3
+XintianShu,4,15,Optimized Rotation,Horizontal,Buccal,3
+XintianShu,6,13,Optimized Rotation,Horizontal,Buccal,3
+XintianShu,6,14,Optimized Rotation,Horizontal,Buccal,3
+XintianShu,7,7,Optimized Rotation,Vertical,Buccal,3
+XintianShu,10,8,Optimized Rotation,Vertical,Buccal,3
+XintianShu,11,9,Optimized Rotation,Horizontal,Buccal,3
+XintianShu,11,10,Optimized Rotation,Horizontal,Buccal,3
+XintianShu,13,12,Optimized Rotation,Horizontal,Buccal,3
+XintianShu,14,11,Rectangular,Horizontal,Buccal,3
+XintianShu,19,1,Rectangular,Horizontal,Buccal,3
+XintianShu,20,5,Optimized Extrusion,Vertical,Buccal,3
+XintianShu,22,2,Optimized Rotation,Vertical,Buccal,3
+XintianShu,29,4,Optimized Rotation,Vertical,Buccal,3
+XintianShu,30,3,Rectangular,Horizontal,Buccal,3
+XiShi,1,12,Ellipsoidal,Horizontal,Buccal,3
+XiShi,2,22,Rectangular,Horizontal,Buccal,0
+XiShi,4,13,Optimized Rotation,Horizontal,Buccal,3
+XiShi,5,14,Optimized Rotation,Horizontal,Buccal,3
+XiShi,6,15,Optimized Rotation,Vertical,Buccal,3
+XiShi,10,16,Optimized Rotation,Vertical,Buccal,3
+XiShi,11,17,Optimized Rotation,Horizontal,Buccal,3
+XiShi,11,18,Optimized Rotation,Horizontal,Buccal,3
+XiShi,12,19,Optimized Rotation,Horizontal,Buccal,3
+XiShi,13,20,Optimized Rotation,Horizontal,Buccal,3
+XiShi,15,21,Ellipsoidal,Horizontal,Buccal,3
+XiShi,18,1,Rectangular,Horizontal,Buccal,3
+XiShi,19,2,Rectangular,Horizontal,Buccal,3
+XiShi,20,3,Rectangular,Vertical,Buccal,3
+XiShi,21,4,Rectangular,Vertical,Buccal,3
+XiShi,22,5,Rectangular,Vertical,Buccal,3
+XiShi,24,6,Rectangular,Vertical,Buccal,3
+XiShi,27,7,Rectangular,Vertical,Buccal,3
+XiShi,28,8,Optimized Rotation,Vertical,Buccal,3
+XiShi,28,9,Rectangular,Vertical,Buccal,53
+XiShi,29,10,Rectangular,Vertical,Buccal,53
+XiShi,31,11,Rectangular,Horizontal,Buccal,3
+XuezhuLiu,4,7,Optimized Rotation,Vertical,Buccal,0
+XuezhuLiu,5,8,Optimized Rotation,Vertical,Buccal,0
+XuezhuLiu,5,9,Optimized Rotation,Horizontal,Buccal,0
+XuezhuLiu,6,10,Optimized Rotation,Horizontal,Buccal,0
+XuezhuLiu,6,11,Optimized Rotation,Horizontal,Buccal,0
+XuezhuLiu,9,12,Optimized Rotation,Horizontal,Buccal,0
+XuezhuLiu,9,13,Optimized Rotation,Horizontal,Buccal,0
+XuezhuLiu,10,14,Optimized Rotation,Vertical,Buccal,0
+XuezhuLiu,11,15,Rectangular,Vertical,Buccal,0
+XuezhuLiu,12,16,Optimized Rotation,Vertical,Buccal,0
+XuezhuLiu,12,17,Optimized Rotation,Horizontal,Buccal,0
+XuezhuLiu,13,18,Optimized Rotation,Vertical,Buccal,0
+XuezhuLiu,13,19,Optimized Rotation,Horizontal,Buccal,0
+XuezhuLiu,15,20,Ellipsoidal,Horizontal,Buccal,0
+XuezhuLiu,19,1,Rectangular,Vertical,Buccal,0
+XuezhuLiu,20,2,Rectangular,Vertical,Buccal,0
+XuezhuLiu,22,3,Rectangular,Vertical,Buccal,0
+XuezhuLiu,27,4,Rectangular,Vertical,Buccal,0
+XuezhuLiu,29,5,Rectangular,Vertical,Buccal,0
+XuezhuLiu,30,6,Rectangular,Vertical,Buccal,0
+XuyiZhou,3,10,Ellipsoidal,Horizontal,Buccal,3
+XuyiZhou,4,11,Rectangular,Horizontal,Buccal,3
+XuyiZhou,5,12,Rectangular,Horizontal,Buccal,3
+XuyiZhou,6,13,Optimized Rotation,Vertical,Buccal,3
+XuyiZhou,11,14,Optimized Rotation,Horizontal,Buccal,3
+XuyiZhou,11,15,Optimized Rotation,Horizontal,Buccal,3
+XuyiZhou,12,16,Rectangular,Vertical,Buccal,3
+XuyiZhou,13,17,Rectangular,Horizontal,Buccal,3
+XuyiZhou,19,1,Rectangular,Vertical,Buccal,3
+XuyiZhou,19,2,Ellipsoidal,Horizontal,Lingual,3
+XuyiZhou,20,3,Optimized Rotation,Horizontal,Buccal,3
+XuyiZhou,21,4,Optimized Rotation,Horizontal,Buccal,3
+XuyiZhou,28,5,Optimized Rotation,Horizontal,Buccal,3
+XuyiZhou,29,6,Rectangular,Horizontal,Buccal,3
+XuyiZhou,29,7,Ellipsoidal,Horizontal,Lingual,3
+XuyiZhou,30,8,Rectangular,Vertical,Buccal,3
+XuyiZhou,30,9,Ellipsoidal,Horizontal,Lingual,3
+YanjunLi,3,22,Rectangular,Horizontal,Buccal,0
+YanjunLi,4,8,Rectangular,Horizontal,Buccal,0
+YanjunLi,5,9,Optimized Rotation,Horizontal,Buccal,0
+YanjunLi,6,10,Optimized Rotation,Horizontal,Buccal,0
+YanjunLi,6,11,Optimized Rotation,Horizontal,Buccal,0
+YanjunLi,6,19,Rectangular,Vertical,Buccal,0
+YanjunLi,8,12,Optimized Rotation,Horizontal,Buccal,0
+YanjunLi,8,13,Optimized Rotation,Horizontal,Buccal,0
+YanjunLi,11,14,Optimized Rotation,Horizontal,Buccal,0
+YanjunLi,11,15,Optimized Rotation,Horizontal,Buccal,0
+YanjunLi,11,20,Rectangular,Vertical,Buccal,0
+YanjunLi,12,16,Optimized Extrusion,Vertical,Buccal,0
+YanjunLi,13,17,Optimized Rotation,Horizontal,Buccal,0
+YanjunLi,14,21,Rectangular,Horizontal,Buccal,0
+YanjunLi,15,18,Rectangular,Horizontal,Buccal,0
+YanjunLi,18,1,Rectangular,Horizontal,Buccal,0
+YanjunLi,21,2,Optimized Extrusion,Vertical,Buccal,0
+YanjunLi,22,3,Optimized Rotation,Vertical,Buccal,0
+YanjunLi,22,25,Rectangular,Vertical,Buccal,0
+YanjunLi,27,4,Optimized Rotation,Vertical,Buccal,0
+YanjunLi,27,24,Rectangular,Vertical,Buccal,0
+YanjunLi,28,5,Optimized Extrusion,Vertical,Buccal,0
+YanjunLi,30,6,Rectangular,Horizontal,Buccal,0
+YanjunLi,31,7,Rectangular,Horizontal,Buccal,0
+YanjunLi,31,23,Rectangular,Vertical,Buccal,0
+YawenShi,2,9,Optimized Rotation,Horizontal,Buccal,0
+YawenShi,3,10,Rectangular,Horizontal,Buccal,0
+YawenShi,4,11,Optimized Rotation,Horizontal,Buccal,0
+YawenShi,5,12,Optimized Rotation,Horizontal,Buccal,0
+YawenShi,6,13,Rectangular,Vertical,Buccal,0
+YawenShi,11,14,Rectangular,Vertical,Buccal,0
+YawenShi,12,15,Optimized Rotation,Horizontal,Buccal,0
+YawenShi,13,16,Optimized Rotation,Horizontal,Buccal,0
+YawenShi,14,17,Rectangular,Horizontal,Buccal,0
+YawenShi,15,18,Rectangular,Horizontal,Buccal,0
+YawenShi,19,1,Rectangular,Vertical,Buccal,0
+YawenShi,20,2,Optimized Extrusion,Vertical,Buccal,0
+YawenShi,21,3,Rectangular,Vertical,Buccal,0
+YawenShi,22,4,Rectangular,Vertical,Buccal,0
+YawenShi,27,5,Rectangular,Vertical,Buccal,0
+YawenShi,28,6,Rectangular,Vertical,Buccal,0
+YawenShi,29,7,Optimized Extrusion,Vertical,Buccal,0
+YawenShi,30,8,Rectangular,Vertical,Buccal,0
+YayuShi,4,6,Optimized Rotation,Vertical,Buccal,3
+YayuShi,4,7,Optimized Rotation,Horizontal,Buccal,3
+YayuShi,5,8,Optimized Rotation,Vertical,Buccal,3
+YayuShi,5,9,Optimized Rotation,Horizontal,Buccal,3
+YayuShi,6,10,Optimized Rotation,Vertical,Buccal,3
+YayuShi,10,11,Optimized Rotation,Vertical,Buccal,3
+YayuShi,11,12,Optimized Rotation,Vertical,Buccal,3
+YayuShi,12,13,Optimized Rotation,Horizontal,Buccal,3
+YayuShi,12,14,Optimized Rotation,Horizontal,Buccal,3
+YayuShi,13,15,Optimized Rotation,Horizontal,Buccal,3
+YayuShi,20,1,Optimized Rotation,Vertical,Buccal,3
+YayuShi,21,2,Optimized Rotation,Vertical,Buccal,3
+YayuShi,22,3,Optimized Rotation,Vertical,Buccal,3
+YayuShi,28,4,Optimized Rotation,Vertical,Buccal,3
+YayuShi,29,5,Optimized Extrusion,Vertical,Buccal,3
+YifanYang,3,17,Rectangular,Vertical,Buccal,0
+YifanYang,5,9,Optimized Rotation,Vertical,Buccal,3
+YifanYang,6,10,Optimized Rotation,Horizontal,Buccal,3
+YifanYang,6,11,Optimized Rotation,Horizontal,Buccal,3
+YifanYang,7,12,Optimized Extrusion,Horizontal,Buccal,38
+YifanYang,9,13,Optimized Extrusion,Vertical,Buccal,38
+YifanYang,10,14,Optimized Extrusion,Vertical,Buccal,3
+YifanYang,11,15,Rectangular,Vertical,Buccal,3
+YifanYang,12,16,Rectangular,Vertical,Buccal,3
+YifanYang,14,21,Rectangular,Vertical,Buccal,0
+YifanYang,20,1,Optimized Rotation,Vertical,Buccal,3
+YifanYang,21,2,Optimized Rotation,Vertical,Buccal,3
+YifanYang,22,3,Optimized Rotation,Vertical,Buccal,3
+YifanYang,23,4,Rectangular,Vertical,Buccal,3
+YifanYang,25,5,Rectangular,Vertical,Buccal,3
+YifanYang,27,6,Optimized Rotation,Vertical,Buccal,3
+YifanYang,28,7,Optimized Rotation,Horizontal,Buccal,3
+YifanYang,29,8,Optimized Rotation,Vertical,Buccal,3
+YifeiLu,2,10,Ellipsoidal,Horizontal,Buccal,0
+YifeiLu,4,11,Optimized Rotation,Horizontal,Buccal,0
+YifeiLu,5,12,Rectangular,Horizontal,Buccal,0
+YifeiLu,6,13,Rectangular,Horizontal,Buccal,0
+YifeiLu,7,14,Optimized Extrusion,Vertical,Buccal,0
+YifeiLu,7,15,Rectangular,Horizontal,Lingual,35
+YifeiLu,8,16,Optimized Extrusion,Vertical,Buccal,0
+YifeiLu,9,17,Optimized Extrusion,Vertical,Buccal,0
+YifeiLu,10,18,Optimized Extrusion,Vertical,Buccal,0
+YifeiLu,10,19,Rectangular,Horizontal,Lingual,35
+YifeiLu,11,20,Rectangular,Horizontal,Buccal,0
+YifeiLu,12,21,Rectangular,Horizontal,Buccal,0
+YifeiLu,13,22,Optimized Rotation,Horizontal,Buccal,0
+YifeiLu,15,23,Ellipsoidal,Horizontal,Buccal,0
+YifeiLu,19,1,Ellipsoidal,Horizontal,Buccal,0
+YifeiLu,20,2,Optimized Rotation,Horizontal,Buccal,0
+YifeiLu,21,3,Optimized Rotation,Horizontal,Buccal,0
+YifeiLu,22,4,Optimized Rotation,Horizontal,Buccal,0
+YifeiLu,22,5,Optimized Rotation,Horizontal,Buccal,0
+YifeiLu,27,6,Optimized Rotation,Vertical,Buccal,0
+YifeiLu,28,7,Optimized Rotation,Horizontal,Buccal,0
+YifeiLu,29,8,Optimized Extrusion,Vertical,Buccal,0
+YifeiLu,30,9,Ellipsoidal,Horizontal,Buccal,0
+YihuiGuo,3,8,Rectangular,Vertical,Buccal,3
+YihuiGuo,4,9,Optimized Rotation,Vertical,Buccal,3
+YihuiGuo,5,10,Optimized Rotation,Vertical,Buccal,3
+YihuiGuo,6,11,Optimized Rotation,Vertical,Buccal,3
+YihuiGuo,7,12,Optimized Extrusion,Vertical,Buccal,3
+YihuiGuo,10,13,Optimized Rotation,Horizontal,Buccal,3
+YihuiGuo,11,14,Optimized Rotation,Horizontal,Buccal,3
+YihuiGuo,11,15,Optimized Rotation,Horizontal,Buccal,3
+YihuiGuo,13,16,Optimized Rotation,Horizontal,Buccal,3
+YihuiGuo,14,17,Rectangular,Vertical,Buccal,3
+YihuiGuo,19,1,Rectangular,Vertical,Buccal,3
+YihuiGuo,20,2,Optimized Extrusion,Vertical,Buccal,3
+YihuiGuo,20,20,Rectangular,Vertical,Buccal,0
+YihuiGuo,22,3,Rectangular,Vertical,Buccal,3
+YihuiGuo,27,4,Optimized Rotation,Horizontal,Buccal,3
+YihuiGuo,27,5,Optimized Rotation,Horizontal,Buccal,3
+YihuiGuo,27,19,Rectangular,Vertical,Buccal,0
+YihuiGuo,29,6,Optimized Extrusion,Vertical,Buccal,3
+YihuiGuo,29,18,Rectangular,Vertical,Buccal,0
+YihuiGuo,30,7,Rectangular,Vertical,Buccal,3
+YijunCao,3,12,Rectangular,Vertical,Buccal,3
+YijunCao,4,13,Rectangular,Vertical,Buccal,3
+YijunCao,6,14,Rectangular,Vertical,Buccal,3
+YijunCao,7,15,Optimized Rotation,Vertical,Buccal,3
+YijunCao,8,16,Optimized Rotation,Horizontal,Buccal,3
+YijunCao,8,17,Optimized Rotation,Horizontal,Buccal,3
+YijunCao,10,22,Rectangular,Vertical,Lingual,10
+YijunCao,11,18,Optimized Rotation,Horizontal,Buccal,3
+YijunCao,11,19,Optimized Rotation,Horizontal,Buccal,3
+YijunCao,13,20,Optimized Rotation,Horizontal,Buccal,3
+YijunCao,14,21,Optimized Rotation,Horizontal,Buccal,3
+YijunCao,18,1,Optimized Rotation,Horizontal,Buccal,3
+YijunCao,19,2,Rectangular,Vertical,Buccal,3
+YijunCao,19,2,Rectangular,Vertical,Buccal,3
+YijunCao,20,3,Optimized Rotation,Horizontal,Buccal,3
+YijunCao,22,4,Optimized Rotation,Horizontal,Buccal,3
+YijunCao,22,5,Optimized Rotation,Horizontal,Buccal,3
+YijunCao,23,11,Rectangular,Vertical,Lingual,10
+YijunCao,27,6,Optimized Rotation,Horizontal,Buccal,3
+YijunCao,27,7,Optimized Rotation,Horizontal,Buccal,3
+YijunCao,29,8,Optimized Rotation,Horizontal,Buccal,3
+YijunCao,30,9,Optimized Rotation,Horizontal,Buccal,3
+YijunCao,31,10,Optimized Rotation,Horizontal,Buccal,3
+YilunBao,3,9,Rectangular,Horizontal,Buccal,3
+YilunBao,4,10,Optimized Rotation,Horizontal,Buccal,3
+YilunBao,6,11,Optimized Rotation,Horizontal,Buccal,3
+YilunBao,6,12,Optimized Rotation,Horizontal,Buccal,3
+YilunBao,6,27,Rectangular,Vertical,Buccal,0
+YilunBao,9,13,Optimized Rotation,Horizontal,Buccal,3
+YilunBao,9,14,Optimized Rotation,Horizontal,Buccal,3
+YilunBao,10,15,Optimized Rotation,Vertical,Buccal,3
+YilunBao,11,16,Optimized Rotation,Horizontal,Buccal,3
+YilunBao,11,17,Optimized Rotation,Horizontal,Buccal,3
+YilunBao,11,28,Rectangular,Vertical,Buccal,0
+YilunBao,13,18,Optimized Extrusion,Vertical,Buccal,3
+YilunBao,18,26,Rectangular,Horizontal,Buccal,0
+YilunBao,19,1,Ellipsoidal,Horizontal,Lingual,3
+YilunBao,20,2,Optimized Rotation,Vertical,Buccal,3
+YilunBao,20,3,Optimized Rotation,Horizontal,Buccal,3
+YilunBao,22,4,Optimized Rotation,Horizontal,Buccal,3
+YilunBao,22,5,Optimized Rotation,Horizontal,Buccal,3
+YilunBao,22,23,Rectangular,Vertical,Buccal,0
+YilunBao,27,19,Rectangular,Vertical,Buccal,0
+YilunBao,29,6,Optimized Rotation,Vertical,Buccal,3
+YilunBao,29,7,Optimized Rotation,Horizontal,Buccal,3
+YilunBao,30,8,Ellipsoidal,Horizontal,Lingual,3
+YilunBao,31,25,Rectangular,Horizontal,Buccal,0
+YiqingWang,3,27,Rectangular,Horizontal,Buccal,0
+YiqingWang,5,8,Optimized Extrusion,Vertical,Buccal,0
+YiqingWang,6,9,Optimized Rotation,Horizontal,Buccal,0
+YiqingWang,6,10,Optimized Rotation,Horizontal,Buccal,0
+YiqingWang,6,18,Rectangular,Vertical,Buccal,0
+YiqingWang,11,17,Rectangular,Vertical,Buccal,0
+YiqingWang,12,11,Optimized Extrusion,Vertical,Buccal,0
+YiqingWang,13,12,Optimized Rotation,Vertical,Buccal,0
+YiqingWang,14,19,Rectangular,Horizontal,Buccal,0
+YiqingWang,19,26,Rectangular,Vertical,Buccal,0
+YiqingWang,20,1,Optimized Rotation,Horizontal,Buccal,0
+YiqingWang,21,2,Optimized Rotation,Vertical,Buccal,0
+YiqingWang,22,3,Optimized Rotation,Vertical,Buccal,0
+YiqingWang,22,24,Rectangular,Vertical,Buccal,0
+YiqingWang,27,4,Optimized Rotation,Vertical,Buccal,0
+YiqingWang,27,23,Rectangular,Vertical,Buccal,0
+YiqingWang,28,5,Optimized Extrusion,Vertical,Buccal,0
+YiqingWang,29,6,Optimized Rotation,Horizontal,Buccal,0
+YiqingWang,30,25,Rectangular,Vertical,Buccal,0
+YiqingWang,31,7,Rectangular,Horizontal,Buccal,0
+YiruFan,3,11,Ellipsoidal,Horizontal,Buccal,3
+YiruFan,4,12,Rectangular,Horizontal,Buccal,3
+YiruFan,5,13,Optimized Rotation,Horizontal,Buccal,3
+YiruFan,6,14,Optimized Rotation,Horizontal,Buccal,3
+YiruFan,6,15,Optimized Rotation,Horizontal,Buccal,3
+YiruFan,7,16,Optimized Rotation,Horizontal,Buccal,3
+YiruFan,11,17,Optimized Rotation,Horizontal,Buccal,3
+YiruFan,11,18,Optimized Rotation,Horizontal,Buccal,3
+YiruFan,12,19,Optimized Extrusion,Vertical,Buccal,3
+YiruFan,13,20,Optimized Extrusion,Vertical,Buccal,3
+YiruFan,19,1,Ellipsoidal,Horizontal,Lingual,3
+YiruFan,20,2,Ellipsoidal,Horizontal,Lingual,3
+YiruFan,21,3,Optimized Rotation,Horizontal,Buccal,3
+YiruFan,22,4,Optimized Rotation,Horizontal,Buccal,3
+YiruFan,22,5,Optimized Rotation,Horizontal,Buccal,3
+YiruFan,27,6,Optimized Rotation,Horizontal,Buccal,3
+YiruFan,27,7,Optimized Rotation,Horizontal,Buccal,3
+YiruFan,28,8,Optimized Rotation,Vertical,Buccal,3
+YiruFan,29,9,Ellipsoidal,Horizontal,Lingual,3
+YiruFan,30,10,Ellipsoidal,Horizontal,Lingual,3
+YiXu,2,21,Ellipsoidal,Horizontal,Buccal,0
+YiXu,3,10,Rectangular,Vertical,Buccal,0
+YiXu,4,11,Rectangular,Vertical,Buccal,0
+YiXu,6,12,Optimized Rotation,Horizontal,Buccal,0
+YiXu,6,13,Optimized Rotation,Horizontal,Buccal,0
+YiXu,6,20,Rectangular,Vertical,Buccal,0
+YiXu,10,14,Optimized Rotation,Horizontal,Buccal,0
+YiXu,11,15,Optimized Rotation,Horizontal,Buccal,0
+YiXu,11,16,Optimized Rotation,Horizontal,Buccal,0
+YiXu,11,32,Rectangular,Vertical,Buccal,0
+YiXu,13,17,Optimized Rotation,Horizontal,Buccal,0
+YiXu,13,37,Rectangular,Vertical,Buccal,0
+YiXu,14,18,Optimized Rotation,Vertical,Buccal,0
+YiXu,14,36,Rectangular,Vertical,Buccal,0
+YiXu,15,19,Optimized Rotation,Horizontal,Buccal,0
+YiXu,15,38,Ellipsoidal,Horizontal,Buccal,0
+YiXu,18,1,Optimized Rotation,Horizontal,Buccal,0
+YiXu,19,2,Optimized Rotation,Horizontal,Buccal,0
+YiXu,19,35,Rectangular,Vertical,Buccal,0
+YiXu,20,3,Optimized Rotation,Horizontal,Buccal,0
+YiXu,20,34,Rectangular,Vertical,Buccal,0
+YiXu,22,4,Optimized Rotation,Vertical,Buccal,0
+YiXu,22,33,Rectangular,Vertical,Buccal,0
+YiXu,27,5,Optimized Rotation,Horizontal,Buccal,0
+YiXu,27,6,Optimized Rotation,Horizontal,Buccal,0
+YiXu,27,22,Rectangular,Vertical,Buccal,0
+YiXu,29,7,Optimized Rotation,Horizontal,Buccal,0
+YiXu,29,23,Rectangular,Vertical,Buccal,0
+YiXu,29,24,Rectangular,Vertical,Lingual,0
+YiXu,30,8,Optimized Rotation,Horizontal,Buccal,0
+YiXu,30,31,Rectangular,Vertical,Buccal,0
+YiXu,31,9,Optimized Rotation,Horizontal,Buccal,0
+YoumingDeng,6,3,Optimized Extrusion,Vertical,Buccal,0
+YoumingDeng,7,4,Optimized Rotation,Vertical,Buccal,0
+YoumingDeng,22,1,Rectangular,Vertical,Buccal,0
+YoumingDeng,27,2,Rectangular,Vertical,Buccal,0
+YouweiHuang,3,25,Ellipsoidal,Horizontal,Buccal,0
+YouweiHuang,4,7,Optimized Rotation,Horizontal,Buccal,3
+YouweiHuang,5,8,Optimized Rotation,Horizontal,Buccal,3
+YouweiHuang,6,9,Optimized Rotation,Vertical,Buccal,3
+YouweiHuang,6,21,Rectangular,Vertical,Buccal,0
+YouweiHuang,7,10,Optimized Extrusion,Vertical,Buccal,86
+YouweiHuang,9,11,Optimized Extrusion,Vertical,Buccal,86
+YouweiHuang,10,12,Optimized Extrusion,Vertical,Buccal,3
+YouweiHuang,11,13,Optimized Rotation,Vertical,Buccal,3
+YouweiHuang,11,22,Rectangular,Vertical,Buccal,0
+YouweiHuang,12,14,Optimized Rotation,Vertical,Buccal,3
+YouweiHuang,12,15,Optimized Rotation,Horizontal,Buccal,3
+YouweiHuang,13,16,Optimized Rotation,Horizontal,Buccal,3
+YouweiHuang,14,26,Ellipsoidal,Horizontal,Buccal,0
+YouweiHuang,20,1,Optimized Rotation,Vertical,Buccal,3
+YouweiHuang,20,23,Rectangular,Vertical,Buccal,0
+YouweiHuang,21,2,Optimized Extrusion,Vertical,Buccal,3
+YouweiHuang,21,20,Rectangular,Vertical,Buccal,0
+YouweiHuang,22,3,Optimized Rotation,Vertical,Buccal,3
+YouweiHuang,22,19,Rectangular,Vertical,Buccal,0
+YouweiHuang,27,4,Optimized Rotation,Vertical,Buccal,3
+YouweiHuang,27,17,Rectangular,Vertical,Buccal,0
+YouweiHuang,28,5,Optimized Rotation,Horizontal,Buccal,3
+YouweiHuang,28,18,Rectangular,Vertical,Buccal,0
+YouweiHuang,29,6,Optimized Rotation,Vertical,Buccal,3
+YouweiHuang,29,24,Rectangular,Vertical,Buccal,0
+YunaoLv,3,8,Rectangular,Horizontal,Buccal,3
+YunaoLv,4,9,Optimized Rotation,Horizontal,Buccal,3
+YunaoLv,4,17,Ellipsoidal,Horizontal,Lingual,0
+YunaoLv,4,24,Rectangular,Horizontal,Buccal,0
+YunaoLv,6,10,Optimized Rotation,Horizontal,Buccal,3
+YunaoLv,6,11,Optimized Rotation,Horizontal,Buccal,3
+YunaoLv,6,21,Rectangular,Vertical,Buccal,0
+YunaoLv,7,12,Optimized Rotation,Horizontal,Buccal,3
+YunaoLv,10,13,Optimized Rotation,Vertical,Buccal,3
+YunaoLv,11,14,Optimized Rotation,Vertical,Buccal,3
+YunaoLv,11,22,Rectangular,Vertical,Buccal,0
+YunaoLv,13,15,Rectangular,Vertical,Buccal,3
+YunaoLv,13,18,Ellipsoidal,Horizontal,Lingual,0
+YunaoLv,14,16,Rectangular,Vertical,Buccal,3
+YunaoLv,18,1,Optimized Rotation,Horizontal,Buccal,3
+YunaoLv,19,2,Rectangular,Vertical,Buccal,3
+YunaoLv,20,3,Optimized Extrusion,Vertical,Buccal,3
+YunaoLv,20,20,Ellipsoidal,Horizontal,Lingual,0
+YunaoLv,20,23,Rectangular,Vertical,Buccal,0
+YunaoLv,22,4,Rectangular,Vertical,Buccal,3
+YunaoLv,22,4,Rectangular,Vertical,Buccal,3
+YunaoLv,27,5,Rectangular,Vertical,Buccal,3
+YunaoLv,27,5,Rectangular,Vertical,Buccal,3
+YunaoLv,29,6,Rectangular,Horizontal,Buccal,6
+YunaoLv,29,19,Ellipsoidal,Horizontal,Lingual,0
+YunaoLv,30,7,Rectangular,Vertical,Buccal,3
+YuweiZhou,2,11,Rectangular,Horizontal,Buccal,3
+YuweiZhou,3,12,Rectangular,Horizontal,Buccal,3
+YuweiZhou,4,13,Rectangular,Horizontal,Buccal,3
+YuweiZhou,5,14,Rectangular,Horizontal,Buccal,3
+YuweiZhou,6,15,Rectangular,Vertical,Buccal,3
+YuweiZhou,11,16,Rectangular,Vertical,Buccal,3
+YuweiZhou,12,17,Rectangular,Horizontal,Buccal,3
+YuweiZhou,13,18,Rectangular,Horizontal,Buccal,3
+YuweiZhou,14,19,Rectangular,Horizontal,Buccal,3
+YuweiZhou,15,20,Rectangular,Horizontal,Buccal,3
+YuweiZhou,18,1,Ellipsoidal,Horizontal,Lingual,3
+YuweiZhou,19,2,Rectangular,Vertical,Buccal,3
+YuweiZhou,20,3,Rectangular,Horizontal,Buccal,3
+YuweiZhou,21,4,Optimized Rotation,Vertical,Buccal,3
+YuweiZhou,22,5,Rectangular,Vertical,Buccal,3
+YuweiZhou,27,6,Rectangular,Vertical,Buccal,3
+YuweiZhou,28,7,Rectangular,Vertical,Buccal,3
+YuweiZhou,29,8,Rectangular,Horizontal,Buccal,3
+YuweiZhou,30,9,Rectangular,Vertical,Buccal,3
+YuweiZhou,31,10,Ellipsoidal,Horizontal,Lingual,3
+YuWenyou,4,7,Optimized Rotation,Horizontal,Buccal,0
+YuWenyou,5,8,Optimized Rotation,Vertical,Buccal,0
+YuWenyou,6,9,Optimized Rotation,Horizontal,Buccal,0
+YuWenyou,6,10,Optimized Rotation,Horizontal,Buccal,0
+YuWenyou,11,11,Optimized Rotation,Horizontal,Buccal,0
+YuWenyou,11,12,Optimized Rotation,Horizontal,Buccal,0
+YuWenyou,12,13,Optimized Extrusion,Vertical,Buccal,0
+YuWenyou,20,1,Optimized Rotation,Vertical,Buccal,0
+YuWenyou,21,2,Optimized Rotation,Horizontal,Buccal,0
+YuWenyou,22,3,Optimized Rotation,Vertical,Buccal,0
+YuWenyou,27,4,Optimized Rotation,Vertical,Buccal,0
+YuWenyou,28,5,Optimized Extrusion,Vertical,Buccal,0
+YuWenyou,29,6,Optimized Rotation,Vertical,Buccal,0
+YuxuanMa,3,7,Rectangular,Vertical,Buccal,3
+YuxuanMa,4,8,Rectangular,Vertical,Buccal,3
+YuxuanMa,6,9,Rectangular,Vertical,Buccal,3
+YuxuanMa,6,15,Rectangular,Vertical,Buccal,0
+YuxuanMa,7,10,Optimized Rotation,Horizontal,Buccal,3
+YuxuanMa,10,11,Optimized Rotation,Vertical,Buccal,3
+YuxuanMa,11,12,Optimized Rotation,Vertical,Buccal,3
+YuxuanMa,11,16,Rectangular,Vertical,Buccal,0
+YuxuanMa,13,13,Optimized Rotation,Horizontal,Buccal,3
+YuxuanMa,14,14,Rectangular,Vertical,Buccal,3
+YuxuanMa,19,1,Rectangular,Vertical,Buccal,3
+YuxuanMa,19,17,Ellipsoidal,Horizontal,Lingual,0
+YuxuanMa,20,2,Optimized Rotation,Horizontal,Buccal,3
+YuxuanMa,22,3,Rectangular,Vertical,Buccal,3
+YuxuanMa,27,4,Rectangular,Vertical,Buccal,3
+YuxuanMa,29,5,Rectangular,Vertical,Buccal,3
+YuxuanMa,30,6,Rectangular,Vertical,Buccal,3
+YuxuanMa,30,18,Ellipsoidal,Horizontal,Lingual,0
+ZehangZheng,5,6,Optimized Extrusion,Vertical,Buccal,3
+ZehangZheng,6,7,Optimized Rotation,Vertical,Buccal,3
+ZehangZheng,7,8,Rectangular,Horizontal,Buccal,3
+ZehangZheng,9,9,Rectangular,Horizontal,Buccal,3
+ZehangZheng,10,10,Rectangular,Horizontal,Buccal,3
+ZehangZheng,11,11,Rectangular,Vertical,Buccal,3
+ZehangZheng,12,12,Optimized Rotation,Horizontal,Buccal,3
+ZehangZheng,13,13,Rectangular,Vertical,Buccal,3
+ZehangZheng,14,14,Rectangular,Horizontal,Buccal,3
+ZehangZheng,21,1,Rectangular,Vertical,Buccal,3
+ZehangZheng,22,2,Rectangular,Vertical,Buccal,3
+ZehangZheng,27,3,Rectangular,Vertical,Buccal,3
+ZehangZheng,28,4,Rectangular,Vertical,Buccal,3
+ZehangZheng,29,5,Optimized Rotation,Vertical,Buccal,3
+ZhengXinyi,5,8,Optimized Rotation,Vertical,Buccal,3
+ZhengXinyi,6,9,Optimized Rotation,Vertical,Buccal,3
+ZhengXinyi,7,10,Optimized Extrusion,Vertical,Buccal,3
+ZhengXinyi,10,11,Optimized Rotation,Vertical,Buccal,3
+ZhengXinyi,12,12,Optimized Rotation,Vertical,Buccal,3
+ZhengXinyi,20,1,Optimized Rotation,Vertical,Buccal,3
+ZhengXinyi,21,2,Optimized Extrusion,Vertical,Buccal,3
+ZhengXinyi,22,3,Optimized Rotation,Vertical,Buccal,3
+ZhengXinyi,27,4,Optimized Rotation,Vertical,Buccal,3
+ZhengXinyi,28,5,Optimized Rotation,Horizontal,Buccal,3
+ZhengXinyi,28,6,Optimized Rotation,Horizontal,Buccal,3
+ZhengXinyi,29,7,Optimized Rotation,Vertical,Buccal,3
+ZhengyanWu,4,7,Optimized Rotation,Horizontal,Buccal,3
+ZhengyanWu,5,8,Optimized Rotation,Horizontal,Buccal,3
+ZhengyanWu,5,9,Optimized Rotation,Horizontal,Buccal,3
+ZhengyanWu,10,10,Optimized Rotation,Vertical,Buccal,3
+ZhengyanWu,11,11,Rectangular,Horizontal,Buccal,3
+ZhengyanWu,13,12,Optimized Rotation,Horizontal,Buccal,3
+ZhengyanWu,14,13,Rectangular,Horizontal,Buccal,3
+ZhengyanWu,20,1,Optimized Extrusion,Vertical,Buccal,3
+ZhengyanWu,21,14,Rectangular,Horizontal,Buccal,0
+ZhengyanWu,27,2,Optimized Rotation,Horizontal,Buccal,3
+ZhengyanWu,27,3,Optimized Rotation,Horizontal,Buccal,3
+ZhengyanWu,29,4,Optimized Rotation,Horizontal,Buccal,3
+ZhengyanWu,29,5,Optimized Rotation,Horizontal,Buccal,3
+ZhengyanWu,30,6,Rectangular,Horizontal,Buccal,3
+ZhuQianyun,2,14,Rectangular,Vertical,Buccal,0
+ZhuQianyun,4,6,Optimized Rotation,Vertical,Buccal,3
+ZhuQianyun,5,7,Optimized Rotation,Vertical,Buccal,3
+ZhuQianyun,7,8,Optimized Rotation,Vertical,Buccal,3
+ZhuQianyun,11,9,Optimized Rotation,Vertical,Buccal,3
+ZhuQianyun,12,10,Optimized Rotation,Vertical,Buccal,3
+ZhuQianyun,12,11,Optimized Rotation,Horizontal,Buccal,3
+ZhuQianyun,13,12,Optimized Rotation,Horizontal,Buccal,3
+ZhuQianyun,15,18,Rectangular,Vertical,Buccal,0
+ZhuQianyun,16,20,Ellipsoidal,Horizontal,Buccal,0
+ZhuQianyun,17,19,Ellipsoidal,Horizontal,Buccal,0
+ZhuQianyun,18,16,Rectangular,Vertical,Buccal,0
+ZhuQianyun,20,1,Optimized Rotation,Vertical,Buccal,3
+ZhuQianyun,21,2,Optimized Rotation,Vertical,Buccal,3
+ZhuQianyun,27,3,Optimized Rotation,Vertical,Buccal,3
+ZhuQianyun,28,4,Optimized Extrusion,Vertical,Buccal,3
+ZhuQianyun,29,5,Optimized Rotation,Vertical,Buccal,3
+ZhuQianyun,31,13,Rectangular,Vertical,Buccal,0
+ZimoWang,2,11,Optimized Rotation,Horizontal,Buccal,3
+ZimoWang,3,12,Optimized Rotation,Horizontal,Buccal,3
+ZimoWang,4,13,Optimized Rotation,Horizontal,Buccal,3
+ZimoWang,6,14,Optimized Rotation,Horizontal,Buccal,3
+ZimoWang,6,15,Optimized Rotation,Horizontal,Buccal,3
+ZimoWang,7,16,Optimized Rotation,Horizontal,Buccal,3
+ZimoWang,10,17,Optimized Rotation,Horizontal,Buccal,3
+ZimoWang,11,18,Optimized Rotation,Horizontal,Buccal,3
+ZimoWang,11,19,Optimized Rotation,Horizontal,Buccal,3
+ZimoWang,13,20,Optimized Rotation,Horizontal,Buccal,3
+ZimoWang,14,21,Optimized Rotation,Horizontal,Buccal,3
+ZimoWang,15,22,Optimized Rotation,Horizontal,Buccal,3
+ZimoWang,18,1,Optimized Rotation,Horizontal,Buccal,3
+ZimoWang,19,2,Optimized Rotation,Horizontal,Buccal,3
+ZimoWang,20,3,Optimized Rotation,Horizontal,Buccal,3
+ZimoWang,22,4,Optimized Rotation,Horizontal,Buccal,3
+ZimoWang,22,5,Optimized Rotation,Horizontal,Buccal,3
+ZimoWang,27,6,Optimized Rotation,Horizontal,Buccal,3
+ZimoWang,27,7,Optimized Rotation,Horizontal,Buccal,3
+ZimoWang,29,8,Optimized Rotation,Horizontal,Buccal,3
+ZimoWang,30,9,Optimized Rotation,Horizontal,Buccal,3
+ZimoWang,31,10,Optimized Rotation,Horizontal,Buccal,3
+ZuhengGao,3,9,Rectangular,Horizontal,Buccal,0
+ZuhengGao,4,10,Optimized Rotation,Vertical,Buccal,0
+ZuhengGao,6,11,Optimized Rotation,Horizontal,Buccal,0
+ZuhengGao,6,12,Optimized Rotation,Horizontal,Buccal,0
+ZuhengGao,11,13,Optimized Rotation,Horizontal,Buccal,0
+ZuhengGao,11,14,Optimized Rotation,Horizontal,Buccal,0
+ZuhengGao,13,15,Optimized Rotation,Horizontal,Buccal,0
+ZuhengGao,14,16,Rectangular,Horizontal,Buccal,0
+ZuhengGao,19,1,Optimized Rotation,Vertical,Buccal,0
+ZuhengGao,20,2,Optimized Rotation,Horizontal,Buccal,0
+ZuhengGao,22,3,Optimized Rotation,Horizontal,Buccal,0
+ZuhengGao,22,4,Optimized Rotation,Horizontal,Buccal,0
+ZuhengGao,27,5,Optimized Rotation,Horizontal,Buccal,0
+ZuhengGao,27,6,Optimized Rotation,Horizontal,Buccal,0
+ZuhengGao,29,7,Optimized Rotation,Horizontal,Buccal,0
+ZuhengGao,30,8,Optimized Rotation,Horizontal,Buccal,0

@@ -1,0 +1,12 @@
+# OsPrj-1
+
+Implementation of process tree by DFS in AVD and Caesar Encryption Server
+
+Problems&Proccesses:
+1.Add a new system call in android. Type $emulator -avd #avd name# -kernel #your kernel location# in terminal. Put newcall.c and Makefile to a jni folder and type $make in it. Push *.ko file to Android vm and install *.ko.
+
+2.Use this new system call. Put ptree.c and Android.mk to jni folder and type $ndk-build in it. Push the executable ptree file to Android vm. Type ./ptree.
+
+3.Create child process to test ./ptree. Similar to 2.
+
+4.Caesar Encryption Server. Put server.c and client.c into one file.Type $gcc -o server(client) server.c(client.c) -lpthread(\) to start server and client¡£
